@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../static/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Detector</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Language Detector</h1>
+
+        <form action="/detect_language" method="post">
+            <textarea name="paragraph" placeholder="Enter text paragraph..." rows="4"></textarea>
+            <br>
+            <input type="submit" value="Detect Language">
+        </form>
+        <div id="result">
+            {% block result %}{% endblock %}
+        </div>
+    </div>
+</body>
+</html>

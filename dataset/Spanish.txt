@@ -1,0 +1,2382 @@
+﻿The Project Gutenberg eBook of Booknología: El libro digital (1971-2010)
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+*** This is a COPYRIGHTED Project Gutenberg eBook. Details Below. ***
+***     Please follow the copyright guidelines in this file.      ***
+
+
+Title: Booknología: El libro digital (1971-2010)
+
+Author: Marie Lebert
+
+Release date: August 18, 2010 [eBook #33461]
+                Most recently updated: December 5, 2010
+
+Language: Spanish
+
+Credits: Produced by Al Haines
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK BOOKNOLOGÍA: EL LIBRO DIGITAL (1971-2010) ***
+
+
+
+
+Produced by Al Haines
+
+
+
+
+
+
+
+
+
+BOOKNOLOGÍA: EL LIBRO DIGITAL (1971-2010)
+
+
+
+MARIE LEBERT
+
+
+Versión actualizada en noviembre de 2010
+
+
+Copyright © 2010 Marie Lebert. Todos derechos reservados.
+
+
+--- Marie Lebert, investigadora y periodista, se interesa por las
+tecnologías para el libro y los idiomas. Ha escrito "Del libro impreso
+al libro digital" (NEF, Universidad de Toronto, 2010), "Una corta
+historia del eBook" (NEF, 2009) y "El internet y los idiomas" (NEF,
+2009). Sus libros están disponibles gratuitamente en el Proyecto
+Gutenberg <www.gutenberg.org> y en ManyBooks.net
+<http://manybooks.net>, en varios formatos electrónicos para lectura en
+un ordenador, un PDA, un teléfono móvil, un smartphone o una tableta de
+lectura. ---
+
+
+De 1971 a 2010 > Booknología, una cronología del libro digital
+
+El libro digital casi tiene 40 años. Nace con el eText #1 del Proyecto
+Gutenberg, creado en 1971 por Michael Hart con el fin de distribuir
+gratuitamente las obras literarias por vía electrónica. 40 años
+después, libros digitales hacen parte de nuestra vida. Podemos leerlos
+en un ordenador, un PDA (asistente personal), un teléfono móvil, un
+smartphone y una tableta de lectura. [Por favor, disculpe mis errores
+en español, si acaso hay algunas. Mi lengua materna es el francés.]
+
+Julio de 1971 > El Proyecto Gutenberg, un proyecto visionario
+
+El primer libro digital remonta a julio de 1971. Se trata del eText #1
+del Proyecto Gutenberg, un proyecto visionario lanzado por Michael Hart
+con el fin de crear versiones electrónicas de obras literarias y de
+difundirlas por el mundo entero. En el siglo 16, Gutenberg había hecho
+posible para todos tener libros impresos por un precio relativamente
+módico. En el siglo 21, el Proyecto Gutenberg iba a permitir a cada uno
+disponer de una biblioteca digital gratuita. Este proyecto cobró nuevo
+aliento y alcanzó una difusión internacional con la aparición de la web
+en 1990, y luego con la creación de Distributed Proofreaders en 2000,
+cuya meta es compartir la revisión de los libros entre centenares de
+voluntarios. En 2010, el Proyecto Gutenberg cuenta con 33.000 libros,
+decenas de miles de descargas al día, sitios web en los Estados Unidos,
+en Australia, en Europa y en Canadá, y 40 sitios espejo repartidos en
+toda la planeta.
+
+1974 > El internet despega
+
+El internet, aún embrionario en 1971, despega verdaderamente en 1974,
+tras la creación de protocolos por Vinton Cerf y Robert Khan para los
+intercambios de datos. En el sitio de la Internet Society (ISOC), que
+funda en 1992 para promover el desarrollo del internet, Vinton Cerf
+explica: "La red permite dos cosas (...): como los libros, permite
+acumular conocimientos. Pero sobre todo presenta este conocimiento bajo
+una forma que lo relaciona con otra información. Mientras que en un
+libro la información queda aislada."
+
+1977 > Las extensiones del ASCII para algunos idiomas europeos
+
+El primer sistema de codificación informática es el ASCII (American
+Standard Code for Information Interchange - Código Estadounidense
+Estándar para el Intercambio de Información), publicado en 1968 por
+ANSI (American National Standards Institute - Instituto Estadounidense
+Nacional de Normas), y actualizado en 1977 y 1986. El ASCII es un
+código de 128 caracteres traducidos en lenguaje binario en siete bits
+(A se traduce por "1000001", B se traduce por "1000010", etc.). El
+ASCII no permite más que la lectura del inglés y del latín. Variantes
+del ASCII en ocho bits (norma ISO-8859 o ISO-Latin) toman en cuenta los
+caracteres acentuados de algunos idiomas europeos.
+
+1977 > El UNIMARC, un formato bibliográfico común
+
+Creado en 1977 por la IFLA (International Federation of Library
+Associations - Federación Internacional de Asociaciones de
+Bibliotecarios), el formato UNIMARC es un formato universal para el
+almacenamiento y el intercambio de reseñas bibliográficas, con
+codificación de las diversas partes de la reseña (autor, título,
+editorial, etc.) para su procesamiento informático. Este formato
+alienta el intercambio de datos entre los veinte formatos MARC
+existentes, que corresponden cada uno a una práctica nacional de
+catalogación (INTERMARC en Francia, UKMARC en el Reino Unido, USMARC en
+los Estados Unidos, CAN/MARC en Canadá, etc.). Las reseñas en el
+formato original MARC se convierten primero al formato UNIMARC antes de
+ser convertidas de nuevo al formato MARC de destino. UNIMARC también
+puede ser utilizado como estándar para el desarrollo de nuevos formatos
+MARC.
+
+1984 > El copyleft adapta el copyright al internet
+
+Unos creadores desean respetar la vocación primera del internet,
+concebido como un medio de difusión de escala mundial. La idea del
+copyleft fue lanzada en 1984 por Richard Stallman, ingeniero
+informático y defensor del movimiento Open Source dentro de la Free
+Software Foundation (FSF: Fundación por el Software Libre). Concebido
+al principio para los programas, el copyleft fue formalizado luego por
+la GPL (General Public License) y extendido a continuación a cualquier
+tipo de obra de creación. Contiene la declaración de copyright normal
+en la que se afirma el derecho de autor. Su originalidad radica en que
+le proporciona al lector el derecho de redistribuir libremente el
+documento y de modificarlo. El lector se compromete no obstante a no
+reivindicar ni la obra original, ni los cambios efectuados por otras
+personas. Además, todas las realizaciones derivadas de la obra original
+están sujetas también al copyleft.
+
+1984 > El Psion Organiser, la primera agenda electrónica
+
+La sociedad británica Psion lanza el primer modelo de agenda
+electrónica a partir de 1984. A lo largo de los años, la gama de
+aparatos se extiende y la sociedad alcanza un nivel internacional. En
+2000, los diferentes modelos (Serie 7, Serie 5mx, Revo, Revo Plus)
+padecen la competencia del Palm Pilot y del Pocket PC. Tras una
+disminución de las ventas, la sociedad decide diversificar sus
+actividades. Compra la sociedad Teklogix y funda Psion Teklogix en
+septiembre de 2000, con el fin de desarrollar soluciones móviles
+inalámbricas destinadas a las empresas. En 2001 se funda Psion Software
+cuya misión es desarrollar programas para la nueva generación de
+aparatos portátiles que utilizan la plataforma Symbian OS, por ejemplo
+para el smartphone Nokia 9210, un modelo precursor comercializado el
+mismo año.
+
+1986 > Los diccionarios de Franklin en máquinas de bolsillo
+
+Basada en New Jersey (Estados Unidos), la sociedad Franklin
+comercializa a partir de 1986 el primer diccionario consultable en una
+máquina de bolsillo. Quince años más tarde, Franklin distribuye 200
+obras de referencia en máquinas de bolsillo: diccionarios monolingües y
+bilingües, enciclopedias, biblias, manuales didácticos, obras de
+medicina y libros de ocio.
+
+1990 > La World Wide Web
+
+La World Wide Web es creada por Tim Berners-Lee en 1989-1990 en el CERN
+(Centre Européen pour la Recherche Nucléaire - Laboratorio Europeo para
+la Investigación Molecular) en Ginebra (Suiza). Esto revoluciona la
+consulta del internet. Gracias a la web empieza a ser posible publicar
+documentos mediante el sistema de hipertexto, es decir un conjunto de
+hipervínculos que permiten pasar de un documento textual o visual a
+otro, mediante un simple clic de ratón. La información se vuelve
+verdaderamente interactiva, y por lo tanto resulta de repente mucho más
+atractiva. El World Wide Web Consortium (W3C) es fundado en octubre de
+1994 para definir los protocolos comunes requeridos por la web.
+
+Enero de 1991 > El Unicode, un sistema de codificación para todas las
+lenguas
+
+Publicado por primera vez en enero de 1991, el Unicode es un sistema de
+codificación de caracteres "universal" en 16 bits que asigna un número
+único a cada carácter. Este número es legible desde cualquier
+plataforma, con cualquier programa en cualquier idioma. El Unicode
+puede reconocer 65.000 caracteres únicos y tomar en cuenta todos los
+sistemas de escritura del planeta. Para gran satisfacción de los
+lingüistas, progresivamente el Unicode va sustituyendo el ASCII . El
+Unicode es mantenido por el Unicode Consortium, con sus variantes UTF-
+8, UTF-16 y UTF-32 (UTF: Unicode Transformation Format), y es uno de
+los componentes de las especificaciones del W3C (World Wide Web
+Consortium), el organismo internacional encargado del desarrollo de la
+web. La utilización del Unicode se generaliza a partir de 1998, por
+ejemplo para los archivos de texto bajo plataforma Windows (Windows NT,
+Windows 2000, Windows XP y siguientes versiones), que hasta entonces
+estaban en ASCII. Pero se debe esperar hasta 2008 para que el Unicode
+supera el ASCII en el internet.
+
+Enero de 1993 > La Online Books Page inventaria libros digitales en
+libre acceso
+
+La Online Books Page fue creada en enero de 1993 por John Mark
+Ockerbloom para inventariar los textos electrónicos de dominio público
+en lengua inglesa de libre acceso en la web. Por esas fechas, John Mark
+estaba realizando un doctorado en la Universidad Carnegie Mellon
+(Estados Unidos). En 1999, empieza a trabajar en la Universidad de
+Pensilvania en el departamento de investigación y desarrollo (Research
+& Development) de la biblioteca digital. En la misma época, también
+transfiere allí la Online Books Page, conservando la misma
+presentación, muy sobria, y prosigue con su trabajo de inventario en la
+misma línea. El repertorio cuenta con 20.000 textos electrónicos
+inventariados en 2003, de los cuales 4.000 publicados por mujeres,
+25.000 títulos en diciembre de 2006, 30.000 títulos a finales de 2007,
+de los cuales 7.000 títulos del Proyecto Gutenberg, y 35.000 títulos en
+junio de 2010.
+
+Junio de 1993 > El formato PDF y el Acrobat Reader lanzados por Adobe
+
+El formato PDF (Portable Document Format) fue lanzado en junio de 1993
+por la sociedad Adobe, al mismo tiempo que el Acrobat Reader, el primer
+software de lectura del mercado, descargable gratuitamente para leer
+archivos en formato PDF. El formato PDF permite guardar los documentos
+digitales conservando un diseño determinado, con los tipos de letra,
+los colores y las imágenes del documento original, sin que importe la
+plataforma utilizada para crearlo y leerlo. Cualquier documento puede
+ser convertido al formato PDF con ayuda del  software Adobe Acrobat (de
+pago). El formato PDF se convierte con los años en un estándar
+internacional de difusión de los documentos. En 2000, un Acrobat Reader
+para ordenador está disponible en varios idiomas y para varias
+plataformas (Windows, Mac, Linux). Un Acrobat Reader puede utilizarse
+para PDA, en el Palm Pilot (en mayo de 2001) y luego en el Pocket PC
+(en diciembre de 2001). En 2003, 10% documentos presentes en el
+internet están archivos en el formato PDF.
+
+Julio de 1993 > La E-zine-list, una lista de zines electrónicos
+
+Los primeros títulos puramente electrónicos son obras cortas,
+inventariadas en la E-zine-list, una lista creada durante el verano de
+1993 por John Labovitz. "Zine" es la abreviatura de "fanzine" o
+"magazine", y por lo general es obra de una persona o de un grupo
+pequeño. En cuanto al "e-zine" - contracción de "zine electrónico" -
+sólo se difunde por correo electrónico o en un sitio web. No suele
+contener publicidad, no tiene fines de lucro ni se dirige a una
+audiencia de masas. En cuatro años, entre 1993 y 1998, ya no se trata
+de decenas sino de centenas de e-zines, y el mismo significado de la
+palabra e-zine y se hace más amplio, para referirse a partir de
+entonces a cualquier tipo de publicación que haya sido editada por vía
+electrónica, aunque "exista aún un grupo original e independiente,
+minoritario, que sigue publicando lo que le dicta el corazón, más allá
+de los límites de lo que solemos llamar un e-zine" (John Labovitz). La
+E-zine-list comprende 3.045 títulos en noviembre de 1998.
+
+Noviembre de 1993 > Mosaic, el primer navegador de la web
+
+Mosaic, el primer software de navegación de la web, es desarrollado por
+NCSA (National Center for Supercomputing Applications - Centro Nacional
+de Aplicaciones de Supercomputación) en la Universidad de Illinois
+(Estados Unidos) y empeza a distribuirse gratuitamente a partir de
+noviembre de 1993, contribuyendo así al desarrollo rápido de la web. A
+principios de 1994, parte del equipo de Mosaic emigra hacia la Netscape
+Communications Corporation para desarrollar un nuevo software bajo el
+nombre de Nescape Navigator. En 1995, Microsoft lanza su propio
+navegador, el Internet Explorer. Luego aparecen otros navegadores, como
+Opera o Safari, el navegador de Apple.
+
+Febrero de 1994 > El primer sitio web de una biblioteca
+
+La primera biblioteca "tradicional" presente en el internet es la
+Biblioteca municipal de Helsinki (Finlandia) que inaugura su sitio web
+en febrero de 1994. En los años siguientes varias bibliotecas elaboran
+"ciberespacios" para sus lectores. Otras dan a conocer las joyas de sus
+colecciones por medio de la web. Muchas bibliotecas unen también
+fuerzas para crear un portal común o catálogos comunes.
+
+Mayo de 1994 > La Human-Languages Page, un catálogo de recursos
+lingüísticos
+
+Creada por Tyler Chambers en mayo de 1994, la Human-Languages Page
+(Página de las Lenguas Humanas) es un catálogo de 1.800 recursos
+lingüísticos en una centena de idiomas (en septiembre de 1998). Los
+recursos están clasificados en varias secciones: lengua y literatura,
+escuelas e instituciones, productos y servicios, agencias de empleo y
+formación, diccionarios, cursos de idiomas. En la primavera de 2001, la
+Human-Languages Page fusiona con el Languages Catalog (Catálogo de
+Lenguas), una sección de la WWW Virtual Library, para convertirse en el
+nuevo sitio iLoveLanguages. iLoveLanguages cataloga 2.000 recursos
+lingüísticos en una centena de idiomas en septiembre de 2003, y 2.400
+recursos lingüísticos en septiembre de 2007.
+
+1994 > Athena, una biblioteca digital multilingüe
+
+Fundada en 1994 por Pierre Perroud, profesor en el colegio Voltaire de
+Ginebra (Suiza), Athena es una biblioteca digital multilingüe alojada
+en el sitio de la Universidad de Ginebra. Ofrece enlaces tanto a obras
+disponibles gratis en la web como a obras digitalizadas por Athena. En
+1997, el sitio bilingüe francés-inglés ofrece acceso a 3.500 textos
+electrónicos en ámbitos diversos (filosofía, ciencia, época clásica,
+literatura, historia, economía, etc.). En diciembre de 1998, la
+colección incluye 8.000 textos. Una sección específica (Swiss Authors
+and Texts - Autores y Textos Suizos) incluye textos de autores suizos.
+Otra sección (Athena Literature Resources - Recursos de Literatura de
+Athena) ofrece un directorio mundial de recursos literarios en línea.
+Además, Atenea propone una tabla de mineralogía, obra de Pierre
+Perroud, que se consulta en el mundo entero.
+
+1994 > Libros digitales de acceso libre para favorecer las ventas de
+los mismos libros impresos
+
+La National Academy Press (NAP, que se convertira en la National
+Academies Press) es un editor universitario que publica unos 200 libros
+al año, esencialmente libros científicos y técnicos, y manuales de
+medicina. En 1994, decide poner en acceso libre en la web el texto
+integral de cientos de libros, con el acuerdo de sus autores, para que
+los lectores "los puedan hojear" en pantalla antes de decidir
+comprarlos o no, así como lo harían en una librería. Para la NAP, la
+web representa un nuevo instrumento de marketing para hacer frente a
+las 50.000 obras publicadas cada año en los Estados Unidos. Se concede
+un descuento de 20% sobre cualquier pedido realizado en línea. La
+presencia de estos libros en la web provoca también un aumento de las
+ventas telefónicas. En 1998, el sitio web de la NAP ofrece unos mil
+títulos en versión integral.
+
+1995 > La MIT Press hace la misma experiencia
+
+La solución por la que opta la NAP también es adoptada a partir de 1995
+por la MIT Press (MIT: Massachusetts Institute of Technology --
+Instituto de Tecnología de Massachusetts). Es un éxito: en poco tiempo
+se duplican las ventas de los títulos disponibles en versión integral
+en la web. Estas iniciativas son aclamadas por las demás editoriales,
+aunque sin embargo seguían dudando en lanzarse también a la aventura,
+por tres motivos: los gastos excesivos generados por la puesta en línea
+de miles de páginas, los problemas de derechos de autor, y la
+"competencia" entre libros digitales gratis y libros impresos de pago,
+que juzgan perjudicial para la venta de estos libros.
+
+1995 > El Internet Dictionary Project, para diccionarios colaborativos
+del inglés a otros idiomas
+
+Tyler Chambers lanza en 1995 el Internet Dictionary Project (Proyecto
+de Diccionarios en el Internet) como proyecto colaborativo abierto a
+todos para la creación de diccionarios gratis en la web, del inglés a
+otros idiomas (alemán, español, francés, italiano, latín y portugués).
+Tyler pone fin a este proyecto en enero de 2007, por falta de tiempo,
+dejando los diccionarios existentes tal y como estaban en la web para
+visualización o descarga. Otro proyecto de Tyler es la Human-Languages
+Page (Página de las Lenguas Humanas), un catálogo de recursos
+lingüísticos que creó en mayo de 1994.
+
+1995 > NetGlos, un glosario colaborativo en línea del internet
+
+NetGlos - compendio de "Multilingual Glossary of Internet Terminology"
+(glosario multilingüe de la terminología del internet) - es lanzado en
+1995 por iniciativa del WorldWide Language Institute (Instituto de
+Idiomas del Mundo Entero), que enseña idiomas por el internet. Se trata
+de un proyecto colaborativo en trece idiomas (alemán, chino, croata,
+español, francés, griego, hebreo, flamenco, inglés, italiano, maorí,
+noruego y portugués), con la participación de muchos traductores y
+otros profesionales de las lenguas por el mundo.
+
+1995 > La prensa impresa en línea en los Estados Unidos
+
+En los Estados Unidos, la prensa impesa se pone en línea desde 1995. La
+versión en línea del Wall Street Journal (a pago) logra atraer a
+100.000 suscriptores en 1998. La suscripción es gratuita para leer el
+New York Times en línea. El sitio web del Washington Post propone las
+noticias del día en línea y numerosos artículos archivados, con
+imágenes, sonido y vídeos. Pathfinder (rebautizado más adelante Time)
+es el sitio web del grupo Time-Warner, que edita las revistas Time
+Magazine, Sports Illustrated, Fortune, People, Southern Living, Money,
+Sunset, etc. En el sitio web se pueden leer artículos de estas
+revistas, realizando una búsqueda por fecha o por tema. Y por supuesto
+también está presente en la web la revista Wired, primera revista
+impresa enteramente dedicada a la cibercultura, lanzada en California
+en 1992.
+
+1995 > La prensa impresa en línea en Europa
+
+En el Reino Unido, el Times y el Sunday Times deciden crear un sitio
+web común llamado Times Online, que ofrece incluso la posibilidad de
+generar una edición personalizada. The Economist también se pone en
+línea, como el diario El País en España, el semanario Le Monde
+Diplomatique y los diarios Le Monde y Libération in France, o los
+semanales Focus y Der Spiegel en Alemaña.
+
+Julio de 1995 > Amazon.com, un pionero del ciber-comercio
+
+En julio de 1995, Jeff Bezos funda en Seattle (Estados Unidos) la
+librería Amazon.com, futuro gigante del comercio electrónico. Amazon
+empieza con diez empleados y con tres millones de artículos a la venta.
+Cinco años más tarde, en noviembre de 2000, la sociedad cuenta con
+7.500 empleados, 28 millones de artículos, 23 millones de clientes y
+cuatro filiales: en el Reino Unido (inaugurada en octubre de 1998), en
+Alemania (inaugurada en la misma fecha), en Francia (en agosto de 2000)
+y en Japón (en noviembre de 2000). La quinta filial abre sus puertas en
+Canadá (en junio de 2002), y la sexta, Joyo, en China (en septiembre de
+2004). Al llegar el 3er trimestre de 2003, Amazon obtiene beneficios
+por primera vez en su historia. Presente en siete países y habiéndose
+convertido ya en una referencia mundial para el comercio  electrónico
+(junto con eBay), Amazon celebra sus diez años de existencia en julio
+de 2005, con 9.000 empleados y 41 millones de clientes.
+
+Diciembre de 1995 > La Kotoba Home Page, para leer los idiomas en la
+pantalla de su ordenador
+
+Yoshi Mikami es informático en el Asia Info Network en Fujisawa
+(Japón). En diciembre de 1995, lanza la página web bilingüe (inglés-
+japonés) "The Languages of the World by Computers and the Internet"
+(Los idiomas del mundo con ordenadores y el internet), conocida
+comúnmente como Logos Home Page o Kotoba Home Page. Su página presenta
+un breve historial de cada idioma con sus características, su sistema
+de escritura, su mapa de caracteres y la configuración del teclado en
+dicho idioma. Yoshi Mikami también es el coautor (junto con Kenji
+Sekine y Nobutoshi Kohara) del Guía por una web multilingüe, publicado
+en japonés por las ediciones O'Reilly en agosto de 1997, y traducido al
+inglés, al alemán y al francés en 1998.
+
+Marzo de 1996 > El Palm Pilot es la primera PDA (asistente personal)
+
+En California, la sociedad Palm lanza el Palm Pilot, primera PDA del
+mercado, en marzo de 1996, y vende 23 millones de Palm Pilot entre 1996
+y 2002. Su sistema operativo es el Palm OS y el software de lectura
+asociado es el Palm Reader. En marzo de 2001, los usuarios también
+pueden leer libros en el Mobipocket Reader. Al mismo tiempo, Palm
+compra Peanutpress.com, junto con su software de lectura Peanut Reader
+y sus 2.000 títulos para PDA que se transfieren a la Palm Digital
+Media, la librería digital de Palm. Si a algunos profesionales del
+libro les preocupa la pequeña pantalla del Palm Pilot y de otras PDA,
+los fanáticos de la lectura en PDA garantizan que el tamaño de la
+pantalla no es un problema.
+
+Abril de 1996 > El Internet Archive, para archivar el internet cada dos
+meses
+
+Fundado en abril de 1996 por Brewster Kahle en San Francisco
+(California), el Internet Archive se propone antes de todo constituir,
+almacenar, preservar y administrar una "biblioteca" del internet,
+archivando la totalidad de la web cada dos meses, con el fin de
+proporcionar un instrumento de trabajo a los estudiosos, investigadores
+e historiadores, y de preservar un historial del internet para las
+generaciones futuras.  En octubre de 2001, el Internet Archive pone sus
+archivos en acceso libre en la web gracias a la Wayback  Machine, que
+permite consultar el historial de un sitio web - es decir su contenido
+y su presentación en  varias fechas - en teoría cada dos meses a partir
+de 1996. Los archivos de la web representan 30 millones de páginas web
+en 1996, 65 millares de páginas web (y 50 millones de sitios web) en
+diciembre de 2006, 85 millares de páginas web en mayo de 2007 y 150
+millares de páginas web en marzo de 2010.
+
+Abril de 1996 > OneLook Dictionaries, un punto común para diccionarios
+en línea
+
+OneLook Dictionaries (Diccionarios en una Mirada) es un sitio web
+lanzado en abril de 1996 por Robert Ware. Este sitio ofrece un punto
+común para una búsqueda rápida en cientos de diccionarios generales y
+diccionarios especializados en negocios, informática, medicina,
+religión, ciencia y tecnología, deportes y argot. OneLook Dictionaries
+cataloga 2 millones de términos a partir de 425 diccionarios en 1998,
+2,5 millones de términos a partir de 530 diccionarios en 2000, 5
+millones de términos a partir de 910 diccionarios en 2003, y 19
+millones de términos a partir de 1.060 diccionarios en 2010.
+
+Mayo de 1996 > DAISY, un estandar del audiolibro digital
+
+Fundado en mayo de 1996, el DAISY Consortium (DAISY: Digital Audio
+Information System - Sistema de Información Audio Digital, y después
+Digital Accessible Information System - Sistema de Información Audio
+Accesible) es un consorcio internacional responsable de la transición
+entre el audiolibro analógico (en cinta o casete) al audiolibro
+digital. La tarea del consorcio consiste en definir una norma
+internacional, determinar las condiciones de producción, intercambio y
+utilización de los audiolibros, y organizar la digitalización de los
+audiolibros en el mundo entero. El estándar DAISY se basa en el formato
+DTB (Digital Talking Book - Libro "Hablante" Digital), que permite la
+indexación del audiolibro y la adición de marcadores para una
+navegación fácil en los párrafos, páginas y capítulos.
+
+1996 > La versión web del Ethnologue, un catalogo enciclopédico de
+todos los idiomas vivos
+
+Publicado por SIL International (SIL: Summer Institute of Linguistics)
+desde 1951 en Dallas (Texas, Estados Unidos), The Ethnologue: Languages
+of the World (El Ethnologue: Lenguas del Mundo) lanza en 1996 una
+versión gratis en la web, además de una versión CD-ROM (de pago) y una
+versión impresa (de pago), con idiomas catalogados según varios
+criterios (nombre del idioma, familia lingüística, país(es) donde se
+habla el idioma, código oficial de tres letras, etc.) y un buscador
+único. Los dos índices principales son el Ethnologue Name Index (Índice
+de los Nombres del Ethnologue), que es la lista de los nombres de
+idiomas y dialectos y sus sinónimos, y el Ethnologue Language Family
+Index (Índice de Familias Lingüísticas del Ethnologue), que organiza
+los idiomas según sus familias lingüísticas. Miles de lingüistas en el
+mundo entero han contribuido a esto proyecto de investigación, con una
+nueva edición aproximadamente cada cuatro años. La 16a edición se
+publica en 2009 como "una obra de referencia enciclopédica que cataloga
+todos los 6.909 idiomas vivos del mundo", con una versión impresa de
+pago y una versión web gratis.
+
+Octubre de 1996 > El proyecto @folio, lector portátil de textos
+"abierto"
+
+Concebido en octubre de 1996 por Pierre Schweitzer, arquitecto
+diseñador en Estrasburgo, Francia, el proyecto @folio se define como un
+lector portátil de textos "abierto" o como un tableta de lectura nómada
+para leer textos sacados del internet. De tamaño pequeño, trata de
+imitar en forma electrónica el dispositivo técnico del libro, para
+proporcionar una memoria de facsímiles unidos con hipervínculos para
+que resulten más fáciles de hojear. Pierre también es el autor de
+mot@mot (palabra@palabra), un software que "corta" las páginas
+escaneadas del libro, palabra por palabra, hasta obtener una serie
+"líquida" de imágenes-palabras, es decir cadenas de palabras (y sus
+caracteres) que se pueden restaurar en una nueva página adaptada a una
+pequeña pantalla. Para desarrollar su proyecto @folio y su software
+mot@mot, Pierre registra una patente internacional en abril de 2001 y
+crea la start-up francesa iCodex en julio de 2002.
+
+1996 > Los métodos de trabajo cambian en la edición
+
+La digitalización permite generar, guardar, combinar, almacenar, buscar
+y transmitir textos, sonidos e imágenes por medios sencillos y rápidos.
+Existen procedimientos similares que permiten el procesamiento de la
+escritura, de la música y de las películas, mientras que antes se
+necesitaban soportes variados (papel para la escritura, cinta magnética
+para la música, celuloide para el cine). Además, sectores distintos
+como la edición (que produce libros) y la industria musical (que
+produce discos) trabajan conjuntamente para producir CD-ROM. La
+digitalización acelera el procedimiento material de producción. En el
+mundo editorial, el redactor, el diseñador artístico y el diseñador
+gráfico suelen trabajar simultáneamente sobre la misma obra. En la
+prensa, los periodistas envían directamente sus textos para el
+encuadre, mientras que antes el personal de producción tenía que
+dactilografiar los textos del personal de redacción.
+
+Enero de 1997 > La convergencia multimedia
+
+La convergencia multimedia se puede definir cómo la convergencia de los
+sectores de la informática, de la telefonía y de la radiotelevisión
+hacia una industria que utiliza el internet para la distribución de la
+información. Si bien este fenómeno genera la creación de nuevos empleos
+en algunos sectores, por ejemplo los que están vinculados con la
+producción audiovisual, otros sectores están sujetos a
+reestructuraciones drásticas. La convergencia multimedia tiene muchos
+reveses, por ejemplo la proliferación de contratos precarios para los
+empleados, la inexistencia de sindicatos para los teletrabajadores o el
+maltrato de los derechos de autor en detrimento de los autores. Éste
+fue el tema del Simposio sobre Convergencia Multimedia organizado en
+enero de 1997 por la Organización Internacional del Trabajo (OIT).
+
+Abril de 1997 > E Ink, una tecnología de tinta electrónica
+
+En abril de 1997, los investigadores del Media Lab del MIT
+(Massachusetts Institute of Technology - Instituto de Tecnología de
+Massachusetts) creen la compañía E Ink para desarrollar una tecnología
+de tinta electrónica. Muy brevemente, aquí es la tecnología: atrapados
+entre dos láminas de plástico flexible, millones de microcápsulas
+contienen cada una partículas blancas y negras suspendidas en un
+líquido claro. Un campo eléctrico positivo o negativo permite indicar
+el grupo de partículas deseado (por ejemplo blanco para unas y negro
+para otras) en la superficie del soporte, para ver, modificar o borrar
+datos. En julio de 2002, E Ink presenta el prototipo de la primera
+pantalla con esta tecnología. Esta pantalla es comercializada en 2004.
+Siguen otras pantallas para varias tabletas de lectura, entonces las
+primeras pantallas flexibles en blanco y negro, que anuncian el papel
+electrónico.
+
+Mayo de 1997 > Barnes & Noble lanza su propia librería en línea
+
+Barnes & Noble.com, libería en línea lanzada en mayo de 1997, se apoya
+en la cadena de librerías "tradicionales" Barnes & Noble (B&N), con 480
+librerías diseminadas en los Estados Unidos. Barnes & Noble.com está
+lanzado en cooperación con Bertelsmann, gran sociedad alemana de los
+media. Barnes & Noble.com se lanza en una guerra de precios contra
+Amazon.com, su principal rival en los Estados Unidos, para mayor
+alegría de los clientes que aprovechan esta carrera de rebajas para
+ahorrar entre 20 y 40% del precio de algunos libros. Barnes & Noble.com
+recompra la porción detenida por Bertelsmann (36,8%) en julio de 2003,
+por 164 millones de dólares US.
+
+Junio de 1997 > El internet es anglófono a los 82,3%
+
+En sus inicios, el internet es casi al 100% en inglés, a consecuencia
+de haber empezado en los Estados Unidos antes de extenderse a Canadá y
+a todo el mundo. En 1997, la sociedad Babel, una iniciativa conjunta de
+Alis Technologies y de la Internet Society, realiza el primer estudio
+sobre la distribución de las lenguas en la web. En junio de 1997, la
+página Palmares de las lenguas en la web da los porcentajes de 82,3%
+para el inglés, 4% para el alemán, 1,6% para el japonés, 1,5% para el
+francés, 1,1% para el español, 1,1% para el sueco y 1% para el
+italiano.
+
+1997 > La digitalización de los libros impresos
+
+En 1997, que dice libro digital dice digitalización, porque la casi
+totalidad de los libros existe solo en su versión impresa. Para que un
+libro pueda ser consultado en pantalla, primero hace falta
+digitalizarlo, en "modo imagen" o en "modo texto". Los dos modos son
+complementarios. Digitalizar en "modo imagen" es escanear el libro, y
+equivale a fotografiar el libro página a página. La versión informática
+no es sino un facsímil digital de la versión impresa. Como se conserva
+la presentación original, luego es posible "hojear" el texto en
+pantalla. Este modo es más barato, pero no permite la búsqueda textual.
+Digitalizar en "modo texto" implica la necesidad de escanear el libro
+en modo imagen y convertirlo en texto gracias a un programa OCR
+(Optical Character Recognition). Se supone que un buen programa OCR
+tiene una fiabilidad de un 99%, luego basta con una relectura en
+pantalla para corregir el texto.
+
+1997 > El proyecto de biblioteca digital de la British Library
+
+La British Library ha sido una biblioteca pionera en Europa tan pronto
+como 1997 para su proyecto de biblioteca digital. Brian Lang, el
+director ejecutivo de la biblioteca, explicó en su sitio web: "No
+prevemos una biblioteca exclusivamente digital. Somos conscientes de
+que algunas personas sienten que los materiales digitales predominarán
+en las bibliotecas del futuro. Otros prevén que el impacto será leve.
+(...) El desarrollo de su biblioteca digital permitirá a la British
+Library acoger la era de la información digital. La tecnología digital
+se utilizará para conservar y ampliar la colección sin par de la
+biblioteca. El acceso a la colección será ilimitado para usuarios del
+mundo entero y en cualquier momento; se tratará de un acceso sencillo y
+rápido a los materiales digitalizados a través de redes informáticas,
+en particular del internet."
+
+Octubre de 1997 > Gallica, la biblioteca digital de la Biblioteca
+Nacional de Francia
+
+Gallica, la biblioteca digital de la BnF (Bibliothèque nationale de
+France - Biblioteca Nacional de Francia) se inauguró en octubre de 1997
+con la digitalización de imágenes y textos del siglo 19 francófono, "el
+siglo de la edición y de la prensa moderna, el siglo de la novela y
+también el de las grandes síntesis históricas y filosóficas, un siglo
+científico y técnico". En diciembre de 2006, las colecciones abarcan
+90.000 obras digitalizadas (incluso fascículos de prensa), 80.000
+imágenes y decenas de horas de recursos sonoros. Gallica empieza la
+conversión en modo texto de los libros - que primero habían sido
+digitalizados en modo imagen - con el fin de facilitar el acceso a su
+contenido así como su indexación en los buscadores. En noviembre de
+2007, Gallica anuncia que se han de digitalizar 300.000 obras
+adicionales de aquí a 2010. Éstas están accesibles en su nuevo sitio
+web, en modo imagen y en modo texto a la vez, lo que en total
+representa 45 millones de páginas. Gallica abarca 1,2 millón de
+documentos en octubre de 2010, con una interfaz en cuatro idiomas
+(francés, inglés, español y portugués).
+
+1997 > El primer blog en la web
+
+Un blog es un diario en línea de una persona o un grupo. Este diario se
+ordena cronológicamente - casi siempre de lo más reciente a lo más
+antiguo - y se actualiza a discreción del autor, a cada minuto o una
+vez al mes. El blog aparece por primera vez en 1997. En julio de 2005,
+se llegaría a  más de 14 millones de blogs por el mundo, con 80.000
+nuevos blogs al día. En diciembre de 2006, Technorati, un sitio
+especializado en blogs, menciona 65 millones de blogs, con 175.000
+nuevos blogs al día. Algunos blogs se dedican a las fotos (fotoblogs),
+a la música (audioblogs o podcasts) o al vídeo (videoblogs o vlogs).
+
+1997 > Eurodicautom, o la terminología europea en doce lenguas
+
+La base Eurodicautom -- de acceso libre en la web desde 1997 - es
+administrada por el Servicio de Traducción de la Comisión Europea. Esta
+base terminológica multilingüe de términos económicos, científicos,
+técnicos y jurídicos permite combinar entre sí doce lenguas: las once
+lenguas oficiales de la Unión Europea (alemán, danés, español, finés,
+francés, griego, inglés, italiano, portugués, sueco) y el latín. A
+finales de 2003, Eurodicautom anuncia su integración en una nueva base
+terminológica que fusiona las bases de varias instituciones de la Unión
+Europea. Esta nueva base se podrá consultar en unos veinte idiomas con
+la ampliación de la Unión Europea hacia Europa del Este. La nueva base
+IATE (InterActive Terminology for Europe) es lanzada en la web en junio
+de 2007.
+
+1997 > El interfaz de Yahoo! en siete idiomas
+
+En 1997, Yahoo! se divide en 63 grandes categorías, con una interfaz en
+siete  idiomas: inglés, alemán, coreano, francés, japonés, noruego y
+sueco. Yahho! fue lanzado en enero de 1994 por dos estudiantes de la
+Universidad de Stanford (California), Jerry Lang y David Filo, como
+directorio web en el cual hacen un inventario de los sitios web y los
+clasifican por temas. El directorio propone una clasificación más
+precisa que buscadores como AltaVista que sólo proponen listas
+completamente automatizadas. Cuando una búsqueda no produce resultados
+en Yahoo!, es dirigida automáticamente hacia AltaVista, y viceversa.
+
+Diciembre de 1997 > Babel Fish, el primer servicio de traducción
+automática gratis
+
+En diciembre de 1997, AltaVista es el primer buscador en lanzar un
+servicio gratuito de traducción automática del inglés a cinco otros
+idiomas (alemán, español, francés, italiano y portugués) y viceversa,
+un sistema en el cual la página original y la traducción aparecen una
+al lado de la otra en la pantalla. Babel Fish - también llamado
+AltaVista Translation - es la obra de SYSTRAN, una empresa pionera en
+software de traducción automática. Babel Fish es alimentado por
+diccionarios multilingües de 2,5 millones de términos. Aunque tenga sus
+límites, con una capacidad de traducción que no puede exceder tres
+páginas y con traducciones muy aproximadas, este servicio se hace de
+inmediato muy popular ante los doce millones de usuarios de AltaVista,
+entre los cuales se observa un creciente número de usuarios que no son
+de habla inglesa. Babel Fish contribuye al plurilingüismo de la red, y
+también abre la vía a otros servicios del mismo tipo - desarrollados
+por ejemplo por Alis Technologies, Lernout & Hauspie, Globalink y
+Softissimo.
+
+Diciembre de 1997 > Las herramientas de la empresa de traducción Logos
+en la web
+
+En diciembre de 1997, la empresa de traducción Logos, basada en Módena
+(Italia), decide poner todas sus herramientas profesionales gratis en
+la web. El Logos Dictionary (Diccionario Logos) es un diccionario
+multilingüe de 7,5 millones de términos. La Wordtheque es una base de
+datos multilingüe de 328 millones de términos, compilada a partir de
+millares de traducciones, incluyendo novelas y documentos técnicos. La
+búsqueda en la Wordtheque es posible por idioma, término, autor o
+título. Linguistic Resources (Recursos Lingüísticos) ofrece un punto de
+acceso único a 553 glosarios. El Universal Conjugator (Conjugador
+Universal) proporciona tablas de conjugación en 17 idiomas. En 2007, la
+Wordtheque, rebautizada Logos Library (Biblioteca Logos), contiene 710
+millones de términos. Linguistic Resources (Recursos Lingüísticos)
+proporciona un punto de acceso único a 1.215 glosarios. El Universal
+Conjugador, rebautizado Conjugation of Verbs (Conjugación de Verbos),
+ofrece tablas de conjugación en 36 idiomas.
+
+1998 > La base de datos en línea del primer volumen (1751) de la
+Encylopédie
+
+Proyecto conjunto del CNRS (Centre National de la Recherche
+Scientifique - Centro Nacional de la Investigación Científica) en
+Francia y de la Universidad de Chicago (Illinois) en los Estados
+Unidos, el proyecto ARTFL (American and French Research on the Treasury
+of the French Language - Investigación Americana y Francesa sobre el
+Tesoro de la Lengua Francesa) provee acceso en línea en 1998 a la base
+de datos correspondiente al primer volumen de la Encyclopédie (1751).
+Este experimento en línea es un primer paso hacia la versión en línea
+completa de la primera edición (1751-1772) de la "Encyclopédie ou
+Dictionnaire Raisonné des Sciences, des Métiers et des Arts"
+(Enciclopedia o Diccionario razonado de las ciencias, artes y oficios)
+de Diderot y d'Alembert, con 72.000 artículos escritos por más de 140
+autores (incluidos Voltaire, Rousseau, Marmontel, d'Holbach, Turgot,
+etc.), y con 17 volúmenes de texto (que representan 20.736.912 palabras
+y 18.000 páginas) y 11 volúmenes de láminas. Diseñada para recoger y
+difundir los conocimientos del tiempo, llamado el Siglo de las Luces,
+la Encyclopédie lleva la marca de sus corrientes intelectuales y
+sociales. Gracias a ella fue cómo se difundieron las nuevas ideas que
+inspirarían la Revolución Francesa en 1789.
+
+Abril de 1998 > El sueño detrás de la web, según Tim Berners-Lee, su
+inventor
+
+La web es una aventura estupenda. Tim Berners-Lee, su inventor en 1990,
+escribe en abril de 1998: "El sueño que se esconde detrás de la web es
+el siguiente: crear un espacio de información común en donde
+comuniquemos compartiendo la información. Es esencial que este espacio
+sea universal y que los hipervínculos puedan enlazar con cualquier tipo
+de datos: pueden ser personales, locales o mundiales. Tampoco importa
+que se trate sólo de esbozos o, al contrario, de documentos
+sofisticados. El sueño también tiene una segunda parte: el acceso a la
+web se generalizaría hasta tal punto que acabaría convirtiéndose en un
+espejo realista (o de hecho en la encarnación más directa) de la manera
+en que trabajamos, jugamos y hacemos vida social. Esto significa que
+tras contemplar en línea la descripción de nuestras relaciones
+sociales, podríamos utilizar los ordenadores para analizarlas, dar
+sentido a lo que hacemos, preguntarnos en qué tipo de espacio encuentra
+cada uno un lugar que le corresponde, y cómo podemos trabajar mejor
+juntos." (fragmento de The World Wide Web: A very short personal
+history (El World Wide Web: una muy corta historia personal),
+disponible en su página web en el sitio del World Wide Web Consortium)
+
+Mayo de 1998 > Las ediciones 00h00, pioneras de la edición en línea
+
+Fundadas en mayo de 1998 por Jean-Pierre Arbon y Bruno de Sa Moreira,
+las ediciones 00h00 (que se pronuncia "zéro heure") son pioneras en
+materia de edición en línea comercial. Su actividad consiste en vender
+libros digitales vía el internet. En 2000, el catálogo comprende 600
+títulos, con 85% de las ventas para versiones digitales (en formato
+PDF) y 15% para versiones impresas a petición del cliente. En el sitio
+web, los usuarios/lectores pueden crear su espacio personal para
+redactar ahí sus comentarios, participar en foros, suscribirse a la
+carta de información de 00h00 o ver los videoclips literarios que el
+editor produce para presentar las nuevas obras publicadas. En
+septiembre de 2000, Gemstar-TV Guide International (Estados Unidos)
+procede a la recompra de 00h00. Gemstar decide poner fin a su
+experiencia con libros digitales en junio de 2003.
+
+Agosto de 1998 > Cita de Michael Hart, fundador del Proyecto Gutenberg
+
+Michael Hart, fundador del Proyecto Gutenberg en 1971 y inventor del
+libro digital, decida toda su vida a poner las obras literarias en
+línea gratis para todos. Escribe en agosto de 1998: "Nosotros
+consideramos el texto electrónico como un nuevo medio de comunicación,
+sin verdadera relación con el papel. La única semejanza es que ambos
+difundimos las mismas obras, pero en cuanto la gente se haya
+acostumbrado, no veo cómo el papel aún podría competir con el texto
+electrónico, sobre todo en las escuelas." (Entrevista del NEF)
+
+Septiembre de 1998 > Cita de John Mark Ockerbloom, creador de la Online
+Books Page
+
+John Mark Ockerbloom crea en 1993 la Online Books Page, un repertorio
+de obras gratis en línea.  Escribe en septiembre de 1998: "Me apasioné
+por el enorme potencial que representaba el internet para poner la
+literatura al alcance de mucha gente. Ahora se han puesto en línea
+tantos libros que resulta difícil para mí mantenerme al día (de hecho,
+tengo mucho retraso). Pero pienso seguir con esta actividad de una
+manera u otra. Me intereso mucho por el desarrollo del internet como
+medio de comunicación de masa durante los próximos años. También me
+gustaría seguir comprometido de un modo u otro en la difusión gratuita
+de libros para todos en el internet, ya sea que esta tarea forme parte
+integrante de mi actividad profesional, o que me dedique a una
+actividad voluntaria similar durante mi tiempo libre." (Entrevista del
+NEF)
+
+Septiembre de 1998 > Cita de Robert Beard, creador del sitio A Web of
+Online Dictionaries
+
+Robert Beard, profesor de lengua, crea en 1995 A Web of Online
+Dictionaries, un repertorio de diccionarios en línea. Escribe en
+septiembre de 1998: "La web será una enciclopedia del mundo, hecha por
+el mundo y para el mundo. Ya no habrá información o conocimientos
+útiles que no estén disponibles, de manera que se eliminará la barrera
+principal a la comprensión internacional e interpersonal, y al
+desarrollo personal e institucional. Hará falta tener una imaginación
+más desbordante que la mía para predecir el efecto de este desarrollo
+sobre la humanidad." (Entrevista del NEF) En febrero de 2000, Robert
+Beard co-funda el sitio yourDictionary.com para ofrecer un repertorio
+de diccionarios y otras herramientas lingüísticas en todos los idiomas.
+
+Octubre de 1998 > Una nueva extensión del copyright en los Estados
+Unidos
+
+En los Estados Unidos, una nueva enmienda a la ley de copyright
+(derecho de autor) reduce aún más el dominio público, llenando de
+consternación a todos aquéllos que están creando bibliotecas digitales.
+Esta enmienda a la ley de copyright es ratificada por el Congreso el 27
+de octubre de 1998 para contrarrestar la formidable potencia del
+internet como vehículo de difusión. Los políticos hablan de una Era de
+la Información al mismo tiempo que van endureciendo la legislación
+sobre la puesta a disposición del patrimonio cultural. La contradicción
+es evidente. El copyright ha pasado de un período de 30 años de
+promedio en 1909 a un período de 95 años de promedio en 1998. En 90
+años, entre 1909 y 1998, el copyright se ha extendido de 65 años, una
+medida que afecta las tres cuartas partes de la producción del siglo
+20. Ya sólo los libros publicados antes de 1923 se pueden considerar
+con certeza como parte del dominio
+público.
+
+1999 > El Rocket eBook, la primera tableta electrónica de lectura
+
+Lanzado en 1999 por la sociedad NuvoMedia en la Silicon Valley
+(California), el Rocket eBook es la primera tableta electrónica de
+lectura. NuvoMedia es financiado por la cadena de librerías Barnes &
+Noble y el gigante de los media Bertelsmann. El Rocket eBook incluye
+una pantalla de cristal líquido (o pantalla LCD: Liquid Crystal
+Display), retro-iluminada o no, en blanco y negro o en color. Funciona
+con batería y dispone de un módem integrado y de un puerto USB
+(Universal Serial Bus) que permite conectarse al internet y descargar
+libros a partir la librería digital disponible en el sitio web de
+NuvoMedia.
+
+1999 > Otras tabletas electrónicas de lectura
+
+Otro modelo, el SoftBook Reader, es desarrollado por la sociedad
+SoftBook Press, financiada por las dos grandes editoriales Random House
+y Simon & Schuster. Se estrenan también nuevos modelos pero duran poco,
+por ejemplo el EveryBook, un lector de doble pantalla creado por la
+sociedad del mismo nombre, o el Millennium eBook, creado por la
+sociedad Librius.com. En aquella - no tan remota - época, todas esas
+tabletas electrónicas pesaban entre 700 gramos y 2 kilos y en ellas
+cabían unos diez libros.
+
+1999 > Ulysse, la más antigua librería de viaje en el mundo, estrena su
+sitio web
+
+Lanzado en 1999 por Catherine Domain, el sitio web de la librería
+Ulysse es la escaparate virtual de su librería, la más antigua librería
+de viaje en el mundo, creada por Catherine en 1971 en el corazón de
+París, en la Isla Saint-Louis rodeada por la Sena, con 20.000 libros,
+cartas y revistas, nuevos y antiguos. Catherine explica en diciembre de
+1999: "Mi sitio web está en estado embrionario y en construcción.
+Quiero que se parezca a mi librería, que sea un lugar de encuentro
+antes de ser un lugar comercial. El internet me pone los pelos de
+punta, me quita mucho tiempo y no me trae ningún beneficio, pero esto
+no me molesta... Pero pienso que el internet mata las librerías
+especializadas. Esperando a que me devore, yo uso el internet como
+medio para atraer a los clientes hasta mi casa, ¡y también con
+intención de encontrar libros para aquéllos que aún no tienen el
+internet en casa! Pero la verdad es que no tengo mucha esperanza..."
+
+1999 > WordReference.com, un sitio que ofrece diccionarios bilingües
+gratis
+
+El sitio WordReference.com es creado en 1999 par Michael Kellogg para
+ofrecer diccionarios bilingües gratis para todos. Michael escribe en
+marzo de 2010 en el sitio web de su proyecto: "Empezó este sitio en
+1999 como un esfuerzo para proporcionar diccionarios bilingües en línea
+gratis y herramientas para todos. Desde entonces el sitio ha ido
+creciendo poco a poco para convertirse en uno de los sitios de
+diccionarios en línea más usados, y en el primer diccionario para los
+pares de idiomas inglés-español, inglés-francés, inglés-italiano,
+español-francés y español-portugués. Este sitio siempre figura entre
+los 500 sitios más visitados de la red." WordReference.com proporciona
+también forums lingüísticos muy activos, y diccionarios para su
+teléfono móvil o smartphone.
+
+1999 > Wordfast, un software de traducción asistida
+
+Creado en 1999 en París por Yves Champollion, Wordfast es un software
+de traducción asistida, con gestión de la terminología disponible en
+tiempo real y control tipográfico. Es compatible con otros softwares
+como el WebSphere Translation Server de IBM y los softwares de Trados.
+Durante algunos años, una versión simplificada de Wordfast se podía
+descargar gratis, con un manual del usuario disponible en 16 idiomas.
+En 2010, Wordfast se ha convertido en el primer programa de traducción
+mundial para plataformas Windows (Microsoft) y Mac OS (Apple), y en el
+segundo programa mundial en cuanto al número de ventas (después de SDL
+Trados), con 20.000 clientes en todo el mundo, por ejemplo las Naciones
+Unidas, Nomura Securities, la NASA (National Aeronautics and Space
+Administration - Administración Nacional de Aeronáutica y del Espacio)
+y McGraw-Hill.
+
+Septiembre de 1999 > El OeB (Open eBook), un formato estándar del libro
+digital
+
+Publicado por primera vez en septiembre de 1999, el OeB (Open eBook) es
+un formato de libro digital basado en el lenguaje XML (eXtensible
+Markup Language) y destinado a normalizar el contenido, la estructura y
+la presentación de los libros digitales. El formato OeB es definido por
+el OeBPS (Open eBook Publication Structure). Fundado en enero de 2000,
+el OeBF (Open eBook Forum) es un consorcio industrial internacional que
+reúne a constructores, informáticos, editores, libreros y especialistas
+digitales (85 miembros en 2002) para desarrollar el formato OeB y el
+OeBPS. El formato OeB se convierte en un estándar y sirve de base para
+otros formatos, por ejemplo el formato LIT (para el Microsoft Reader) o
+el formato PRC (para el Mobipocket Reader).
+
+Enero de 2000 > El Million Book Project, para digitalizar un millón de
+libros
+
+Lanzado en enero de 2000 por la Universidad Carnegie Mellon
+(Pensilvania, Estados Unidos), el Million Book Project (Proyecto "un
+millón de libros") - también llamado la Universal Library (Biblioteca
+Universal) o la Universal Digital Library (UDL - Biblioteca Digital
+Universal) - se crea para digitalizar un millón de libros en varios
+idiomas, incluso en India y China. En 2007, un millón de libros están
+disponibles en el sitio web de la universidad, en forma de archivos en
+formatos TIFF y DjVu, con tres sitios espejo en el norte de China, en
+el sur de China y en India. Es posible que este proyecto haya inspirado
+a la Open Content Alliance (OCA - Alianza para un Contenido Abierto),
+un proyecto de biblioteca digital global pública lanzado por el
+Internet Archive en octubre de 2005.
+
+Febrero de 2000 > yourDictionary.com, un directorio de diccionarios en
+línea para todos los idiomas
+
+En febrero de 2000, Robert Beard, profesor de lengua en la Universidad
+Bucknell (Estados Unidos), cofunda el portal yourDictionary.com, que
+integra su sitio precedente (creado en 1995), A Web of Online
+Dictionaries (Una web de diccionarios en línea), un directorio de
+diccionarios en línea en muchos idiomas, con 800 diccionarios en el
+otoño de 1998, y otras secciones para diccionarios multilingües,
+diccionarios especializados de lengua inglesa, tesauros, vocabularios,
+gramáticas, glosarios, métodos de lenguas, etc. yourDictionary.com
+inventaría 1.800 diccionarios en 250 idiomas en septiembre de 2003, y
+2.500 diccionarios en 300 idiomas en abril de 2007. Quiere ser el
+portal de referencia para todos los idiomas sin excepción, y propone
+también la sección Endangered Language Repository (Repositorio de
+idiomas amenazados).
+
+Marzo de 2000 > Mobipocket, el especialista de libros digitales para
+PDA
+
+Fundada en París por Thierry Brethes y Nathalie Ting en marzo de 2000,
+la sociedad Mobipocket se especializa de entrada en la lectura y la
+distribución segurizada de libros para PDA. La sociedad es financiada
+en parte por la multinacional francesa Vivendi. Mobipocket concibe el
+software de lectura Mobipocket Reader, que permite leer archivos en
+formato PRC. Este programa es "universal", es decir que se puede usar
+en cualquier PDA, y en varios idiomas (francés, inglés, alemán,
+español, italiano). En abril de 2002 es compatible con cualquier
+ordenador y plataforma gracias al lanzamiento de nuevas versiones para
+ordenador personal. En la primavera de 2003, el Mobipocket Reader
+equipa las PDA Palm Pilot, Pocket PC, eBookMan y Psion, sin olvidar los
+smartphones de Nokia y Sony Ericsson. En la misma fecha, el número de
+libros legibles en el Mobipocket Reader se cifra en 6.000 títulos en
+varios idiomas (francés, inglés, alemán, español), distribuidos en el
+sitio web de Mobipocket, o en las librerías asociadas. Amazon.com
+recompra Mobipocket en abril de 2005.
+
+Abril de 2000 > El Pocket PC, el PDA de Microsoft, con el Microsoft
+Reader
+
+En abril de 2000, Microsoft lanza el Pocket PC, su propio PDA, y el
+Microsoft Reader, su software de lectura, que permite la lectura de
+libros digitales en formato LIT, basado en el formato OeB (Open eBook).
+LIT es la abreviatura de la palabra inglesa "literature". El Microsoft
+Reader se caracteriza por su sistema de visualización basado en la
+tecnología ClearType, la elección del tamaño de las letras, la
+memorización de las palabras claves para búsquedas ulteriores, y el
+acceso al Merriam-Webster Dictionary con un simple clic. Cuatro meses
+más tarde, en agosto de 2000, el Microsoft Reader se puede utilizar en
+cualquier plataforma Windows, o sea tanto en un ordenador como en una
+PDA.
+
+Junio de 2000 > Cita de Jean-Paul, escritor hipermedia
+
+Jean-Paul, webmaster del sitio web hipermedia cotres.net, relata en
+junio de 2000 lo que aporta el internet en su escritura: "La navegación
+vía hiperenlaces puede tener una estructura radial (tengo un centro de
+interés y pincho metódicamente en todos los enlaces relativos a éste),
+o bien hacerse con rodeos (de clic en clic, a medida que van
+apareciendo enlaces nuevos, pero con el riesgo de perder mi tema de
+vista). Por supuesto, ambos métodos también son posibles con el
+documento impreso. Pero la diferencia salta a la vista: hojear no es lo
+mismo que pinchar. No es que el internet hay cambiado mi vida, sino mi
+relación a la escritura. Uno no escribe de la misma manera para un
+sitio web que para la pantalla, para un guión, una obra de teatro, etc.
+(...) Desde entonces, escribo (composición, diseño, puesta en escena)
+directamente en la pantalla. (...) La publicación en línea me ha
+permitido por fin encontrar la movilidad, la fluidez que estaba
+buscando. En este ámbito la palabra clave es 'obra en progreso',
+abierta. Creación permanente, a estima, como el mundo ante nuestros
+ojos. Provisional, como la vida que se está buscando a tientas, que va
+y viene." (Entrevista del NEF)
+
+Julio de 2000 > 50% usuarios de la red no son de habla inglesa
+
+En el verano de 2000, el número de usuarios que no son de habla inglesa
+alcanza un 50%. (En el verano de 1999, 50% de los usuarios de la red
+viven fuera de los Estados Unidos.) Según Global Reach, una sociedad de
+localización de sitios web, este porcentaje se eleva al 52,5% en el
+verano de 2001, el 57% en diciembre de 2001, el 59,8% en abril de 2002,
+el 64,4% en septiembre de 2003 (de los cuales un 34,9% de europeos de
+habla no inglesa y un 29,4% de asiáticos) y el  64,2% en marzo de 2004
+(de los cuales un 37,9% de europeos de habla no inglesa y un 33% de
+asiáticos).
+
+Julio de 2000 > Stephen King, autor de best-sellers y pionero digital
+
+En julio de 2000, Stephen King empieza la auto-publicación electrónica
+de su novela epistolar The Plant (La Planta). Primer autor de best-
+sellers en participar en una experiencia digital, Stephen King empezó
+en marzo de 2000 con otra experiencia digital, la distribución de su
+novela corta Riding the Bullet (Montando en la bala) sólo en versión
+digital. 400.000 ejemplares se descargaron en 24 horas. Después de este
+éxito, Stephen King crea un sitio web dedicado a la autopublicación de
+The Plant por episodios. Los capítulos aparecen a intervalos regulares
+y se pueden descargar en varios formatos (PDF, OEB, HTML, TXT). En
+diciembre de 2000, tras la publicación del sexto capítulo, el autor
+decide poner fin a este experimento, porque el número de descargas y de
+pagos han ido disminuyendo con regularidad a lo largo de los capítulos.
+Sin embargo Stephen King sigue sus experimentos digitales durante los
+años siguientes, pero esta vez en colaboración con su editor.
+
+Agosto de 2000 > Barnes & Noble.com abre su eBookStore, una sección
+dedicada a los libros digitales
+
+Barnes & Noble.com, el sitio de la cadena de librerías Barnes & Noble,
+abre su eBookStore (sección de ebooks) en agosto de 2000, después de un
+acuerdo con Microsoft en enero de 2000 para la venta de libros
+digitales legibles con el Microsoft Reader. Barnes & Noble  también
+establece un acuerdo con Adobe en agosto de 2000 para proponer títulos
+legibles con el Acrobat Reader y el Glassbook Reader, después de la
+adquisición de Glassbook por Adobe en la misma fecha.
+
+Octubre de 2000 > La librería Numilog se especializa en libros
+digitales
+
+Numilog abre su librería digital en octubre de 2000 para convertirse
+pocos años más tarde en la librería digital francófona más amplia de la
+red. La actividad de la sociedad, fundada en abril de 2000 - seis meses
+antes del estreno de la librería -, en realidad es una actividad
+triple: librería digital, estudio de fabricación y difusor. Los libros
+de Numilog están disponibles en varios formatos: formato PDF para la
+lectura en el Acrobat Reader, formato LIT para la lectura en el
+Microsoft Reader y formato PRC para la lectura en el Mobipocket Reader.
+En septiembre de 2003, el catálogo incluye 3.500 títulos digitales
+(libros y periódicos) en francés y en inglés, gracias a una
+colaboración con unos cuarenta editores.  En diciembre de 2006, el
+catálogo de Numilog incluye 35.000 libros digitales de 60 editores. En
+enero de 2009, tras haberse convertido en una filial de Hachette Livre
+(en mayo de 2008), Numilog tiene un catálogo de 50.000 libros digitales
+de unos 100 editores francófonos y anglófonos, y servicios específicos
+para librerías y bibliotecas.
+
+Octubre de 2000 > Distributed Proofreaders, o la revisión compartida de
+los libros digitalizados
+
+Concebido en octubre de 2000 por Charles Franks para ayudar a
+digitalizar libros para el Proyecto Gutenberg, Distributed Proofreaders
+(Revisores Distribuidos) se convierte rápidamente en la principal
+fuente de libros del Proyecto Gutenberg. El concepto para el software
+consiste en fragmentar los libros en páginas para repartir la
+corrección de las obras entre los voluntarios, quienes eligen el libro
+que les gusta para releer y corregir determinada página. Cada cual
+trabaja a su ritmo. A título indicativo, en el sitio web se aconseja
+repasar una página al día. Distributed Proofreaders es afiliado
+oficialmente al Proyecto Gutenberg en 2002. Se convierte en una entidad
+separada en mayo 2006, aunque manteniendo una estrecha relación con el
+Proyecto Gutenberg. Distributed Proofreaders cuenta con 10.000 libros
+corregidos y producidos en diciembre de 2006, y 18.000 libros en junio
+de 2010. Se crea Distributed Proofreaders Europe (DP Europe) en enero
+de 2004, y Distributed Readers Canada (DP Canada) en julio de 2007.
+
+Octubre de 2000 > La Public Library of Science, o la ciencia para todos
+
+La Public Library of Science (PLoS - Biblioteca Pública de Ciencia) se
+funda en octubre de 2000 en San Francisco (California) a iniciativa de
+un grupo de investigadores de las universidades de Stanford y de
+Berkeley (California) para juntar todos los artículos científicos y
+médicos dentro de archivos en línea de libre acceso, con un buscador
+multicriterio y un sistema de hipervínculos entre los artículos. Para
+tal efecto, la Public Library of Science hace circular una carta
+abierta pidiendo que los artículos publicados por los editores
+especializados en periódicos muy caros sean distribuidos libremente vía
+un servicio de archivos en línea. La respuesta de la comunidad
+científica internacional es admirable, y unos 30.000 investigadores
+procedentes de 180 países diferentes firman la carta abierta. En cuanto
+a los editores, formulan cantidad de objeciones para con el nuevo
+modelo propuesto, de tal modo que el proyecto de archivos en línea
+finalmente no ve la luz. Tres años después, la Public Library of
+Science se convierte en una editorial de periódicos científicos y
+médicos gratis en línea.
+
+Octubre de 2000 > El eBookMan, el asistente personal multimedia de
+Franklin
+
+En octubre de 2000, Franklin lanza el eBookMan, su asistente personal
+(o PDA) multimedia que - entre otras funcionalidades (agenda,
+dictáfono, etc.) - permite la lectura de libros digitales en el
+software de lectura Franklin Reader. Tres modelos (EBM-900, EBM-901 y
+EBM-911) están disponibles a principios de 2001. Cuestan
+respectivamente 130, 180 y 230 dólares US. El precio es función del
+tamaño de la memoria RAM (8 o 16 MB) y de la calidad de la pantalla de
+cristal líquido (o pantalla LCD: Liquid Cristal Display), retro-
+iluminada o no en función de los modelos. La pantalla es más grande que
+la de sus competidores, pero en cambio no existe más que en blanco y
+negro, mientras que la gama Pocket PC y algunos modelos Palm tienen una
+pantalla en color. El eBookMan permite también escuchar libros audio y
+archivos musicales en formato MP3. En octubre de 2001, Franklin elige
+el Mobipocket Reader como segundo software de lectura. El Franklin
+Reader también es disponible para las gamas de PDA Psion, Palm, Pocket
+PC y Nokia.
+
+Noviembre de 2000 > El Gemstar eBook, una tableta de lectura en dos
+versiones
+
+Lanzados en octubre de 2000 en Nueva York y vendidos desde noviembre de
+2000 en los Estados Unidos, los dos primeros modelos de Gemstar eBook
+son los sucesores del Rocket eBook (concebido por la sociedad
+NuvoMedia) y del SoftBook Reader (concebido por la sociedad SoftBook
+Press), debido a la recompra de NuvoMedia y SoftBook Press por Gemstar
+en enero de 2000. Estos dos modelos - el REB 1100 (pantalla en blanco y
+negro, sucesor del Rocket eBook) y el REB 1200 (pantalla en color,
+sucesor del SoftBook Reader) - son construidos y vendidos bajo la marca
+RCA, que pertenece a Thomson Multimedia. El sistema operativo, el
+navegador y el software de lectura son específicos del producto, así
+como el formato de lectura, basado en el formato OeB (Open eBook). En
+el otoño de 2002, sus sucesores, el GEB 1150 y el GEB 2150, son
+producidos bajo la marca Gemstar y vendidos con o sin suscripción anual
+o bianual a la librería digital de Gemstar eBook. Gemstar decide poner
+fin a sus actividades eBook en junio de 2003.
+
+Noviembre de 2000 > La versión digital de la Biblia original de
+Gutenberg en línea
+
+En noviembre de 2000, la British Library pone en línea la versión
+digital de la Biblia original de Gutenberg, que fue el primer libro
+impreso. Aquella Biblia - datada de 1454 o 1455 - fue impresa por
+Gutenberg en 180 ejemplares en su taller de Maguncia, en Alemania. 48
+ejemplares existirían aún, aunque algunos incompletos. Tres de esos
+ejemplares - dos completos y uno parcial - están en la British Library.
+En marzo de 2000, diez investigadores y expertos técnicos de la
+Universidad de Keio en Tokio y de NTT (Nippon Telegraph and Telephone
+Communications - Nippon Telegraph y Telefónica Comunicaciones) vienen a
+trabajar durante dos semanas para escanear ambas versiones completas,
+que presentan algunas diferencias.
+
+Noviembre de 2000 > Frederick Forsyth, novelista británico, prueba una
+experiencia digital
+
+Después del autor de best-sellers Stephen King, Frederick Forsyth, un
+maestro británico de la novela de suspenso, también decide probar
+suerte con una experiencia digital, con el apoyo de Online Originals,
+una editorial electrónica en Londres (Reino Unido). En noviembre de
+2000, Online Originals publica The Veteran (El Veterano), la historia
+de un crimen violento en Londres, que es la primera parte de Quintet
+(Quinteto), una serie de cinco novelas cortas electrónicas (anunciadas
+en el orden siguiente: The Veteran, The Miracle, The Citizen, The Art
+of the Matter, Draco). Disponible en tres formatos (PDF, Microsoft
+Reader y Glassbook Reader), la novela se vende por 3,99 libras (6,60
+euros) en el sitio web del editor y en varias librerías digitales del
+Reino Unido (Alphabetstreet, BOL.com, WHSmith) y de los Estados Unidos
+(Barnes & Noble, Contentville, Glassbook).
+
+Noviembre de 2000 > Cita de Frederick Forsyth, un maestro británico de
+la novela de suspenso
+
+"La publicación en línea será fundamental en el futuro", explica
+Frederick Forsyth en noviembre de 2000 en el sitio web de Online
+Originals, su editorial electrónica. "Crea un enlace simple y sobre
+todo rápido y directo entre el productor original (el autor) y el
+consumidor final (el lector), con muy pocos intermediarios. Es
+emocionante participar en este experimento. Yo no soy de ningún modo un
+especialista en nuevas tecnologías. Nunca he visto un libro
+electrónico. Pero nunca he visto un motor para la Fórmula 1, cosa que
+no me impide ver lo rápido que andan esos coches."
+
+Noviembre de 2000 > Arturo Pérez-Reverte, novelista español, prueba una
+experiencia digital
+
+El nuevo título del novelista español Arturo Pérez-Reverte se llama El
+Oro del Rey, con su publicación prevista para las finales de 2000 como
+parte de su serie best-seller, que narra las aventuras del Capitán
+Alatriste en el siglo 17. En noviembre de 2000, en colaboración con su
+editor Alfaguara, el autor decide difundir El Oro del Rey
+exclusivamente en formato digital por un mes, en un sitio específico
+del portal Inicia, antes del lanzamiento del libro impreso en las
+librerías. La novela está disponible en formato PDF por 2,90 euros, un
+precio mucho más barato que los 15,10 euros anunciados para el libro
+impreso. El experimento resulta en que el número de descargas es muy
+bueno, pero no así el de los pagos. Un mes después de la publicación en
+línea de la novela, se registran 332.000 descargas, pero sólo 12.000
+pagos por los lectores.
+
+Noviembre de 2000 > Amazon.com abre su eBookStore, una sección dedicada
+a los libros digitales
+
+Amazon.com abre su eBookStore (sección de ebooks) en noviembre de 2000,
+después de un acuerdo con Microsoft en enero de 2000 para la venta de
+libros digitales legibles con el Microsoft Reader. Amazon también se
+asocia con Adobe en agosto de 2000 para proponer títulos legibles con
+el Acrobat Reader y el Glassbook Reader, después de la adquisición de
+Glassbook por Adobe en la misma fecha. En abril de 2001, Amazon pone a
+la venta 2.000 libros digitales legibles con el Acrobat eBook Reader:
+títulos de grandes editores, guías de viaje, libros para niños, etc.
+
+Diciembre de 2000 > Gyricon Media, una tecnología de tinta electrónica
+
+En diciembre de 2000, los investigadores de PARC (Palo Alto Research
+Center), el centro Xerox de la Silicon Valley (California), crean la
+sociedad Gyricon Media para desarrollar y comercializar el SmartPaper,
+un modelo de papel electrónico basado en una tecnología de tinta
+electrónica llamada Gyricon (que se desarrolló a partir de 1997). En
+muy pocas palabras, esta tecnología es así: atrapadas entre dos láminas
+de plástico flexible, millones de microcélulas contienen microbolas de
+dos tonos (por ejemplo blanco y negro) en suspensión en un líquido
+claro. Cada bola está equipada con una carga eléctrica. Un impulso
+eléctrico permite la rotación externa de las bolas, con un cambio de
+color para mostrar, modificar o borrar datos. En 2004, el mercado es
+primero la publicidad comercial, con la venta de carteles pequeños que
+funcionan con baterías. Gyricon Media desaparece en 2005. La
+investigación continúa en Xerox para el desarrollo del futuro papel
+electrónico.
+
+2000 > El wiki, un sitio web colaborativo
+
+La palabra "wiki" proviene del hawaiano y significa "rápido". Un wiki
+es un sitio web que permite a varios usuarios colaborar en línea sobre
+un mismo proyecto. Se hace muy popular en 2000. Usuarios pueden
+contribuir a la redacción del contenido, modificarlo y enriquecerlo en
+cualquier momento. Se usa el wiki por ejemplo para crear y gestionar
+diccionarios, enciclopedias o también sitios web de información sobre
+un tema determinado. El software utilizado para estructurar la interfaz
+de un wiki puede ser más o menos elaborado. Un software sencillo
+permite administrar texto e hipervínculos, mientras que un software
+complejo permite incluir imágenes, gráficos, tablas, etc. La
+enciclopedia wiki más conocida es Wikipedia.
+
+Enero de 2001 > Wikipedia, una encylopedia gratuita colectiva
+multilingüe en línea
+
+Wikipedia se crea en enero de 2001 a iniciativa de Jimmy Wales y de
+Larry Sanger. Se trata de una enciclopedia gratuita colectiva y cuyo
+contenido puede reutilizarse libremente. La redactan miles de
+voluntarios, con posibilidad de corregir y de completar los artículos,
+tanto los propios como los de otros contribuidores. Los artículos
+siguen siendo propiedad de sus autores, y su libre utilización está
+regida por la licencia GFDL (GNU Free Documentation License) y la
+licencia Creative Commons. En diciembre de 2004, Wikipedia cuenta con
+1,3 millón de artículos redactados por 13.000 contribuidores en 100
+idiomas. En diciembre de 2006, llega a ser uno de los diez sitios más
+visitados de la web, con 6 millones de artículos. En mayo de 2007,
+Wikipedia cuenta con 7 millones de artículos en 192 idiomas, de los
+cuales 1,8 millón en inglés, 589.000 en alemán, 500.000 en francés,
+260.000 en portugués y 236.000 en español. En 2008, Wikipedia es uno de
+los cinco sitios más visitados de la red. En septiembre de 2010,
+Wikipedia cuenta con 14 millones de artículos en 272 idiomas, de los
+cuales 3,4 millones en inglés, 1,1 millón en alemán y 1 millón en
+francés.
+
+Enero de 2001 > El UNL, un proyecto de metalenguaje digital
+
+La Fundación UNDL (Universal Networking Digital Language - Lenguaje
+Digital Universal de Conexión) es creada en enero de 2001 en Ginebra
+(Suiza) para desarrollar y promover el proyecto UNL ((Universal
+Networking Language -- Lenguaje Universal de Conexión). Lanzado en 1996
+en Tokio (Japón) por el Instituto de Estudios Avanzados (IAS: Institute
+of Advanced Studies) de la Universidad de las Naciones Unidas (UNU), el
+proyecto UNL  es un proyecto de metalenguaje digital, destinado a
+tender un puente entre un idioma de origen y un idioma de destino para
+ofrecer una solución a la barrera del idioma. Como se explica en el
+sitio web del proyecto, "el UNL es una lengua artificial creada para
+tener en cuenta la información y los conocimientos transmitidos por las
+lenguas humanas. Tiene componentes lexicales, gramaticales y
+semánticas, como las lenguas naturales. Junto con la inteligencia
+artificial, el UNL facilita la comunicación entre el hombre y la
+máquina y, a través de la máquina, entre todos los pueblos en la lengua
+materna de cada uno."
+
+Enero de 2001 > El Cybook, primera tableta de lectura europea
+
+Primera tableta de lectura europea, el Cybook (21 x 16 cm, 1 kilo) es
+concebido por Cytale -- una sociedad francesa fundada por Olivier Pujol
+- y comercializado a partir de enero de 2001. Su memoria - 32 M de
+memoria SDRAM (Synchronous Dynamic Random Access Memory) y 16 M de
+memoria flash - permite almacenar 15.000 páginas de texto, o sea 30
+libros de 500 páginas. Pero las ventas son muy inferiores a los
+pronósticos y por lo tanto la sociedad se ve obligada a declararse en
+suspensión de pagos. Cytale es declarada en liquidación judicial en
+julio de 2002 y en la misma fecha abandona sus actividades. Unos meses
+más tarde, la sociedad Bookeen, creada en 2003 a iniciativa de Michael
+Dahan y Laurent Picard, ambos ingenieros en Cytale, retoma el
+desarrollo y la comercialización de nuevos modelos del Cybook. En julio
+de 2007, Bookeen presenta una nueva versión de su tableta bautizada
+Cybook Gen3, con una pantalla que utiliza la tecnología E Ink.
+
+Enero de 2001 > Adobe lanza el Acrobat eBook Reader
+
+En enero de 2001, Adobe lanza el Acrobat eBook Reader (gratis), que
+permite leer archivos PDF de libros digitales sometidos a derechos de
+autor. También permite añadir notas y marcadores, escoger la
+disposición de lectura de los libros (páginas individuales o modo libro
+- o sea páginas opuestas), y visualizar las cubiertas en una biblioteca
+personal. El software utiliza la técnica de visualización CoolType y
+contiene un diccionario integrado. Los derechos se gestionan mediante
+el Adobe Content Server (de pago), un software destinado a los editores
+y distribuidores. Este servidor de contenido garantiza el
+acondicionamiento, la protección, la distribución y la venta segurizada
+de libros digitales en formato PDF. En mayo de 2003, el Acrobat eBook
+Reader (versión 2) fusiona con el Acrobat Reader (versión 5) para
+convertirse en el Adobe Reader (que empeza con la versión 6).
+
+Febrero de 2001 > Cita de Russon Wooldridge, fundador del NEF (Net de
+los Estudios Franceses)
+
+Russon Wooldridge, profesor en el Departamento de Estudios Franceses de
+la Universidad de Toronto (Canadá), crea del NEF (Net des Études
+Françaises -- Net de los Estudios Franceses) en mayo de 2000. Relata en
+febrero de 2001: "Mis actividades de investigación, llevadas a cabo
+anteriormente en una torre de marfil, se hacen ahora casi
+exclusivamente por colaboraciones locales o remotas. (...) Todo mi
+método de enseñanza aprovecha a lo máximo los recursos del internet (la
+web y el correo electrónico): los dos lugares comunes son el aula de
+clase y el sitio web del curso, en el cual coloco todo el material
+didáctico. Pongo a disposición en la web todos los datos de mi labor de
+investigación de los últimos veinte años (reedición de libros,
+artículos, texto integral de diccionarios antiguos en bases de datos
+interactivas, de tratados del siglo 16, etc.). Publico actas de
+coloquios, edito un periódico, colaboro con colegas franceses, poniendo
+en línea en Toronto lo que ellos no pueden publicar en línea en su
+país." (Entrevista del NEF)
+
+Marzo de 2001 > IBM lanza el WebSphere Translation Server
+
+En marzo de 2001, IBM se embarca en el mercado creciente de la
+traducción con un producto profesional de gama alta, el WebSphere
+Translation Server. El software traduce instantáneamente páginas web,
+correos electrónicos y conversaciones electrónicas (chats) a varios
+idiomas (alemán, chino, coreano, español, francés, inglés, italiano,
+japonés). Traduce 500 palabras por segundo y permite añadir
+vocabularios específicos.
+
+Marzo de 2001 > Palm lanza el Palm Reader, su software de lectura
+
+En marzo de 2001, la sociedad Palm compra Peanutpress.com, editor y
+distribuidor de libros digitales para PDA, que pertenecía a la sociedad
+netLibrary. El Peanut Reader fusiona con (o se convierte en) el Palm
+Reader, un software de lectura que se puede usar en el Palm Pilot y en
+el Pocket PC, y los 2.000 libros digitales de Peanutpress.com se
+transfieren a la Palm Digital Media, la librería digital de Palm. En
+julio de 2002, el Palm Reader está también disponible para
+computadoras. El catálogo de Palm Digital Media cuenta con 5.500 libros
+en varios idiomas en julio de 2002, y 10.000 libros en 2003.
+
+Abril de 2001 > PDA y tabletas de lectura: algunos números
+
+Según un Seybold Report, se cuenta con 17 millones de PDA por el mundo
+en abril de 2001, mientras que sólo hay 100.000 tabletas de lectura. Se
+venden 13,2 millones de PDA en 2001 y 12,1 millones de PDA en 2002. En
+2002, la gama Palm Pilot sigue siendo el líder del mercado, con 36,8%
+de las PDA vendidas, seguido por la gama Pocket PC de Microsoft y los
+modelos de Hewlett-Packard, Sony, Handspring, Toshiba y Casio. Los
+sistemas operativos utilizados son esencialmente el Palm OS (para 55%
+de las PDA) y el Pocket PC (para 25,7% de las PDA). En 2004, se
+observan una mayor diversidad de modelos y una disminución de precios.
+Palm, Sony y Hewlett-Packard son los tres principales fabricantes.
+Luego vienen Handspring, Toshiba, Casio y otros. Pero la PDA padece
+cada vez más la competencia del smartphone, un teléfono móvil-PDA, y
+las ventas empiezan a disminuir. En febrero de 2005, Sony decide
+retirarse del mercado de las PDA.
+
+Octubre de 2001 > La Wayback Machine, para consultar el historial de un
+página web
+
+En octubre de 2001, el Internet Archive pone sus archivos en acceso
+libre en la web gracias a la Wayback Machine, que permite consultar el
+historial de un sitio web, es decir su contenido y su presentación en
+varias fechas, en teoría cada dos meses a partir de 1996. Fundado en
+abril de 1996 por Brewster Kahle en San Francisco (California), el
+Internet Archive se propone constituir, almacenar, preservar y
+administrar una "biblioteca" del internet, archivando la totalidad de
+la web cada dos meses, con el fin de proporcionar un instrumento de
+trabajo a los estudiosos, investigadores e historiadores, y de
+preservar un historial del internet para las generaciones futuras. En
+2004, los archivos de la web representan 300 T (terabytes) de data, con
+un crecimiento de 12 T por mes. 65 millares de páginas web (y 50
+millones de sitios web) son accesibles con la Wayback Machine en
+diciembre de 2006, 85 millares de páginas web en mayo de 2007 y 150
+millares de páginas web en marzo de 2010.
+
+2001 > La licencia Creative Commons adapta el copyright a la web
+
+Lanzada en 2001 a iniciativa de Lawrence "Larry" Lessig, profesor de
+derecho en la Stanford Law School (California), la licencia Creative
+Commons (Bienes Comunes Creativos) tiene como meta favorecer la
+difusión de obras digitales protegiendo a la vez el derecho de autor.
+El organismo del mismo nombre propone licencias típicas, que se
+presentan como contratos flexibles de derecho de autor compatibles con
+una difusión en el internet. El autor puede por ejemplo decidir
+autorizar o no la reproducción y reemisión de sus obras. Estos
+contratos pueden ser utilizados para cualquier tipo de creación: texto,
+película, foto, música, sitio web, etc. Finalizada en febrero de 2007,
+la versión 3.0 de la Creative Commons instaura una licencia
+internacional y una compatibilidad con otras licencias similares, entre
+las cuales el copyleft y la GPL (General Public License). Un millón de
+obras utilizan una licencia Creative Commons en 2003, 4,7 millones de
+obras en 2004, 20 millones de obras en 2005, 50 millones de obras en
+2006, 90 millones de obras en 2007, 130 millones de obras en 2008 y 350
+millones de obras en abril de 2010.
+
+2001 > El Nokia 9210 es el primer smartphone
+
+El primer smartphone es el Nokia 9210, modelo precursor lanzado en 2001
+por la sociedad finlandesa Nokia, gran fabricante mundial de teléfonos
+móviles. Luego aparecen el Nokia Series 60, el Sony Ericsson P800, y
+más adelante los modelos de Motorola y de Siemens. Estos diferentes
+modelos permiten leer libros digitales con el Mobipocket Reader.
+Llamado también teléfono multimedia, teléfono multifunción o teléfono
+inteligente, el smartphone dispone de una pantalla en color y del
+sonido polifónico. Tiene cámara digital, además de las funciones de la
+asistente personal (agenda, dictáfono, lector de libros digitales,
+lector de música, etc.). Los smartphones representan el 3,7% de las
+ventas de teléfonos móviles en 2004 y el 9% de sus ventas en 2006, a
+saber 90 millones de unidades de un total de unos mil millones.
+
+Enero de 2003 > La Public Library of Science, como editor de periódicos
+científicos gratis
+
+La Public Library of Science (PLoS - Biblioteca Pública de Ciencia),
+fundada en octubre de 2000, crea en enero de 2003 una editorial
+científica no comercial para difundir nuevos periódicos siguiendo un
+modelo de edición en línea basado en la libre difusión del saber. El
+primer número de PLoS Biology (PLoS Biología) se edita en octubre de
+2003. Se lanza PLoS Medicine (PLoS Medicina) en octubre de 2004. Tres
+nuevos títulos ven la luz en 2005: PLoS Genetics (PLoS Genética), PLoS
+Computational Biology (PLoS Biología Computacional) y PLoS Pathogens
+(PLoS Patógenos). PLoS Clinical Trials (PLoS Ensayos Clínicos) ve la
+luz en 2006. Se lanza PLoS Neglected Tropical Diseases (PLoS
+Enfermedades Tropicales Desatendidas) en el otoño de 2007 como la
+primera publicación científica dedicada a las enfermedades tropicales
+desatendidas; que afectan a las poblaciones pobres, tanto en las zonas
+rurales como en las zonas urbanas. Todos los artículos de estos
+periódicos pueden difundirse libremente y ser reutilizados en otro
+contexto, incluso para traducciones, según los términos de la licencia
+Creative Commons, es decir siempre y cuando se mencionen los nombres de
+los autores y la fuente.
+
+Febrero de 2003 > Cita de Nicolas Pewny, consultor en edición
+electrónica
+
+Librero, editor -- fundó la editorial Le Choucas en 1992 - y consultor
+en edición electrónica, Nicolas Pewny escribe en febrero de 2003: "Veo
+el libro digital del futuro como una 'obra total' que une textos,
+sonidos, imágenes, vídeos, interactividad: una nueva forma de diseñar,
+escribir y leer, tal vez en un solo libro, en constante renovación, que
+contendrá todo lo que hemos leído, único y múltiple compañero.
+¿Utópico? ¿Improbable? ¡Tal vez no tanto!" (Entrevista del NEF)
+
+Febrero de 2003 > El sitio web de Handicapzéro, o el internet para
+todos
+
+El sitio web Handicapzéro (Discapacidad Cero), puesto en línea en
+septiembre de 2000 por la asociación del mismo nombre, se convierte en
+febrero de 2003 en un portal generalista que ofrece un acceso adaptado
+a la información para los usuarios francófonos afectados por un
+problema visual, es decir más del 10% de la población. El sitio ofrece
+información sobre diversos asuntos - noticias, programas de televisión,
+boletín meteorológico, etc. - y sobre servicios para la salud, el
+empleo, el consumo, el ocio, el deporte, la telefonía, etc. Las
+personas ciegas pueden acceder al sitio web a través de un dispositivo
+braille o de una síntesis de voz. Las personas con visión reducida
+pueden parametrizar en la página de entrada el tamaño y la letra de
+carácter así como el color del fondo de pantalla para una navegación
+más cómoda. Las personas que no padecen deficiencia visual pueden
+corresponder en braille con personas ciegas vía el sitio web. En
+octubre de 2006, el sitio web adopta una nueva presentación
+enriqueciendo aún más su contenido, adoptando una navegación más
+intuitiva en la página de entrada, proponiendo combinaciones de teclas,
+mejorando la "comodidad de lectura", etc. Más de 2 millones de
+visitantes utilizan sus servicios durante el año 2006. Handicapzéro se
+propone demostrar así "que con sólo respetar algunas reglas
+elementales, el internet puede acabar convirtiéndose en un espacio de
+libertad para todos."
+
+Marzo de 2003 > Paulo Coelho, novelista brasileño, hace una experiencia
+digital
+
+En marzo de 2003, el novelista brasileño Paulo Coelho decidió
+distribuir algunas novelas gratis en formato PDF, en varios idiomas,
+con el consentimiento de sus editores. Paulo Coelho se hizo famoso
+después de la publicación de su novela El Alquimista. A principios de
+2003, ya se han vendido 53 millones de ejemplares de sus libros -
+traducidos a 56 idiomas - en 155 países.
+
+Mayo de 2003 > El Adobe Reader se sustituye al Acrobat Reader
+
+En mayo de 2003, diez años después de sus inicios, el Acrobat Reader
+(versión 5) fusiona con el Acrobat eBook Reader (versión 2) para
+convertirse en el Adobe Reader (que empieza con la versión 6). Éste
+permite leer tanto los archivos PDF estándar como los archivos PDF
+segurizados. A finales de 2003, Adobe estrena su propia librería en
+línea, Digital Media Store, con los libros en formato PDF de grandes
+editores (HarperCollins Publishers, Random House, Simon & Schuster,
+etc.) así como las versiones electrónicas de algunos diarios y revistas
+(New York Times, Popular Science, etc.). En la misma fecha, Adobe lanza
+también Adobe eBooks Central, un servicio que permite leer, publicar,
+vender y prestar libros digitales, y el Adobe eBook Library, un
+prototipo de biblioteca de libros digitales. Las versiones recientes de
+Adobe Acrobat permiten crear PDF compatibles con los formatos OeB (Open
+eBook) y ePub (que sucedió al OeB), que se han convertido también en
+estándares de libro digital.
+
+Septiembre de 2003 > El material de estudio de los cursos del MIT
+gratis en línea
+
+En septiembre de 2003, el MIT (Massachusetts Institute of Technology -
+Instituto de Tecnología de Massachusetts) lanza oficialmente el MIT
+OpenCourseWare, un sitio web que ofrece en línea el material de estudio
+de sus cursos, con acceso libre y gratuito, privilegiando así la
+difusión libre del saber. El material de estudio se compone de textos
+de conferencias, trabajos prácticos, ejercicios con las soluciones
+correspondientes, bibliografías, documentos audio y videos, etc. Un año
+antes, en septiembre de 2002, la versión piloto del MIT OpenCourseWare
+se pone en línea con el material de estudio de 32 cursos
+representativos de las cinco escuelas del MIT. El sitio da acceso al
+material de estudio de unos cien cursos en septiembre de 2003, 500
+cursos para 33 asignaturas en marzo de 2004, 1.400 cursos para 34
+asignaturas en mayo de 2006, y la totalidad de los 1.800 cursos
+impartidos por el MIT en noviembre de 2007, actualizados con
+frecuencia. El MIT lanza también el OpenCourseWare Consortium (OCW
+Consortium) en diciembre de 2005 para la publicación del material de
+estudio de cursos de otras universidades, con la participación de cien
+universidades en el mundo un año más tarde.
+
+Febrero de 2004 > Facebook, una red social
+
+Facebook es una red social fundada en febrero de 2004 por Mark
+Zuckerberg y sus compañeros estudiantes. Diseñado originalmente para
+los estudiantes de la Universidad de Harvard, se abre luego a los
+estudiantes de todas las universidades estadounidenses, antes de
+abrirse al mundo entero en septiembre de 2006, para conectar a la gente
+con su familia, amigos y colegas, así como con desconocidos. Se
+convierte en el segundo sitio más visitado del mundo después de Google,
+con 500 millones de usuarios en julio de 2010, mientras tienen lugar
+debates acerca del respeto de la privacidad dentro de la red social.
+
+Abril de 2004 > El Librié, primera tableta de lectura de Sony
+
+En abril de 2004, Sony presenta en Japón su primera tableta de lectura,
+el Librié 1000-EP, producido en asociación con las sociedades Philips y
+E Ink. Esta tableta es la primera en utilizar la tecnología de tinta
+electrónica desarrollada por E Ink. La tableta pesa 300 gramos (con
+baterías y protector de pantalla) y mide 12,6 x 19 x 1,3 cm. Su memoria
+es de 10 M - con posibilidad de ampliarla - y su capacidad de
+almacenamiento de 500 libros. Su pantalla de 6 pulgadas tiene una
+definición de 170 DPI y una resolución de 800 x 600 píxeles. Un puerto
+USB permite la descarga de libros desde el ordenador. La tableta
+también incluye un teclado, una función de grabación y un sintetizador
+de voz. Funciona con cuatro baterías alcalinas, lo que debería permitir
+la consulta de 10.000 páginas. Su precio se eleva a 375 dólares US. El
+Librié es el precursor del Sony Reader, lanzado en los Estados Unidos
+en octubre de 2006.
+
+2004 > La web 2.0, con las nociones de comunidad y reparto
+
+La web 2.0 es un concepto lanzado en 2004 para caracterizar las
+nociones de comunidad y de reparto, y que se manifesta por un brote de
+blogs, wikis y sitios web sociales. Wikipedia, Facebook y Twitter,
+obviamente, y también decenas de millares de otros. La meta de la web
+2.0 ya no es sólo utilizar la información, sino también incitar a los
+usuarios a intercambiar y a colaborar en línea, por ejemplo en
+enciclopedias cooperativas como Wikipedia y Citizendium. La web 2.0 es
+acuñada por primera vez en 2004 por Tim O'Reilly, fundador de la
+editorial O'Reilly Media, quien ha escogido este título para una serie
+de conferencias que organiza. Con la web 2.0 empeza de realizarse el
+sueño de Tim Berners-Lee, inventor de la web en 1990, que escribió en
+1998: "El acceso a la web se generalizaría hasta tal punto que acabaría
+convirtiéndose en un espejo realista (o de hecho en la encarnación más
+directa) de la manera en que trabajamos, jugamos y hacemos vida
+social." (fragmento de The World Wide Web: A very short personal
+history (El World Wide Web: una muy corta historia personal),
+disponible en su página web en el sitio del World Wide Web Consortium)
+
+2005 > Smartphones o tabletas de lectura?
+
+Cabe preguntarse en 2005 si las tabletas de lectura, dedicadas sólo a
+la lectura, verdaderamente pueden competir con los smartphones
+multifunciones. Cabe preguntarse también si existe una clientela
+específica para cada una de las dos máquinas, ya que la lectura en un
+teléfono celular y en un smartphone se dirige más bien al público
+llano, mientras que la lectura en tabletas se dirige exclusivamente a
+las personas que consumen gran cantidad de documentos, por ejemplo los
+alumnos de secundaria, estudiantes, docentes, investigadores o
+juristas. Y el debate seguirá abierto por mucho tiempo, con una
+competencia dura dentro de este mercado muy prometedor.
+
+Abril de 2005 > El formato ePub, un estándar del libro digital
+
+En abril de 2005, el Open eBook Forum se convierte en el IDPF
+(International Digital Publishing Forum - Foro Internacional de la
+Edición Digital) y el formato OeB (Open eBook) deja paso al formato
+ePub, acrónimo de "electronic publication" (publicación electrónica).
+Este formato es un estándar abierto para el libro digital, y lo usan
+cada vez más los editores para distribuir sus libros. Tiene por objeto
+facilitar la diagramación del contenido ya que el texto se ajusta a
+cualquier tamaño de pantalla (ordenador, smartphone, tableta de
+lectura). Las versiones recientes del software Adobe Acrobat permiten
+crear PDF compatibles con el formato ePub. El sitio epubBooks.com
+ofrece bellos libros digitales del dominio público o cuyos autores han
+dado autorización.
+
+Mayo de 2005 > Google Print, el precursor de Google Books
+
+Google lanza Google Print, el precursor de Google Books, en mayo de
+2005. Dos etapas preceden este lanzamiento. En octubre de 2004, Google
+lanza la primera parte de su programa Google Print, establecido en
+colaboración con los editores para poder consultar en la pantalla
+fragmentos de libros, y luego encargarlos a una librería en línea. En
+diciembre de 2004, Google lanza la segunda parte de su programa Google
+Print, esta vez destinado a las bibliotecas, para digitalizar varias
+grandes bibliotecas asociadas, empezando por la biblioteca de la
+Universidad del Michigan, las bibliotecas de las Universidades de
+Harvard, de Stanford y de Oxford, y la de la ciudad de Nueva York. En
+agosto de 2005, o sea tres meses después de su lanzamiento, Google
+Print se suspende por un tiempo indefinido debido a un conflicto
+creciente con las asociaciones de autores y de editores de libros
+sometidos a derechos de autor. Estas asociaciones reprochan a Google el
+haber digitalizado libros bajo derechos de autor sin pedir de antemano
+la aprobación de los derechohabientes.
+
+Agosto de 2006 > Google Books, el proyecto mundial de Google para
+libros
+
+El programa de Google reanuda su actividad en agosto de 2006 bajo el
+nuevo nombre de Google Books (Google Libros). Se prosigue con la
+digitalización de los fondos de grandes bibliotecas así como el
+desarrollo de colaboraciones con los editores que lo desean. Los libros
+libres de derechos de autor pueden ser consultados en pantalla en
+versión integral, su contenido se puede copiar y es posible imprimirlos
+página por página. Es posible descargarlos bajo forma de archivos PDF e
+imprimirlos en su totalidad. El conflicto con las asociaciones de
+autores y de editores también se prolonga, ya que Google sigue
+digitalizando libros sometidos a derechos de autor sin autorización
+previa de los derechohabientes, invocando el derecho de cita para
+presentar fragmentos en la web. Por su parte, el Authors Guild
+(Asociación de Autores Estadounidenses) y la Association of American
+Publishers (Asociación de Editores Estadounidenses) invocan el no
+respeto de la legislación relativa al derecho de autor para llevar a
+Google ante la justicia. Google presenta un proyecto de acuerdo a estas
+associaciones en octubre de 2008.
+
+Agosto de 2006 > La Open Content Alliance, para una biblioteca digital
+mundial pública
+
+El Internet Archive lanza en agosto de 2006 la Open Content Alliance
+(OCA - Alianza para un Contenido Abierto), una iniciativa mundial
+elaborada desde octubre de 2005 con Yahoo! Su objeto es crear un
+repertorio libre y multilingüe de libros digitales y de documentos
+multimedia que se puedan consultar en cualquier buscador. La Open
+Content Alliance cuenta sus primeros 100.000 libros digitalizados en
+diciembre de 2006, y un ritmo de 12.000 nuevos libros al mes.  El
+proyecto reúne a numerosos colaboradores: bibliotecas, universidades,
+organizaciones gubernamentales, asociaciones sin ánimo de lucro,
+organismos culturales y sociedades informáticas. Los primeros en
+colaborar son las bibliotecas de las Universidades de California y de
+Toronto, el European Archive, los Archivos nacionales del Reino Unido,
+O'Reilly Media y Prelinger Archives. Sólo se digitalizan los libros que
+pertenecen al dominio público. Las colecciones digitales alimentan la
+sección Text Archive del Internet Archive, con un millón de libros en
+diciembre de 2008 y dos millones de libros en marzo de 2010.
+
+Agosto de 2006 > Una versión del catálogo colectivo mundial WorldCat
+gratis en la web
+
+En 2006, el catálogo colectivo mundial WorldCat va migrando hacia la
+web, primero con la posibilidad de ver las reseñas en buscadores como
+Yahoo! O Google, y segundo con el lanzamiento en agosto de 2006 de su
+versión web (beta) worldcat.org en acceso libre y gratis. Este catálogo
+fue creado y esta gestionado desde muchos años por la asociación OCLC
+(Online Computer Library Center -- Centro Informático en Línea para
+Bibliotecas). En 2006, los 73 millones de reseñas de WorldCat provienen
+de 10.000 bibliotecas en 112 países y se utilizan para localizar a unos
+mil millones de documentos. Cada reseña contiene la descripción del
+documento así como información adicional: tabla de contenido, resumen,
+portada, ilustraciones y breve biografía del autor. Las bibliotecas
+participantes en la versión web de WorldCat no ofrecen sólo su
+catálogo, sino también un acceso directo (gratis o de pago) a sus
+documentos electrónicos: libros del dominio público, artículos, fotos,
+vídeos, música y audiolibros.
+
+2006 > Twitter, o la información en 140 caracteres
+
+Creado en 2006 en California por Jack Dorsey, Evan Williams y Biz
+Stone, Twitter es una herramienta para redes sociales y micro-blogging
+que permite a los usuarios enviar mensajes cortos (tweets) de 140
+caracteres a lo máximo, gratuitamente por el internet, la mensajería
+instantánea o por SMS. A veces descrito como el SMS del internet,
+Twitter gana popularidad en el mundo entero, con 106 millones de
+usuarios en abril de 2010 y 300.000 nuevos usuarios por día. Se envían
+5.000 tweets al día en 2007, 300.000 en 2008, 2,5 millones en 2009, 50
+millones en enero de 2010 y 55 millones en abril de 2010, con un
+archivo de los tweets por la Biblioteca del Congreso como reflejo de
+las tendencias de nuestro tiempo, y la adición de los tweets por Google
+entre los resultados de su buscador.
+
+Octubre de 2006 > El Sony Reader, nueva tableta de lectura de Sony
+
+El Sony Reader es una tableta de lectura lanzada en octubre de 2006 en
+los Estados Unidos, y vendida por 350 dólares US. La pantalla del Sony
+Reader, que utiliza la tecnología E Ink (como el Librié, lanzado por
+Sony en Japón en abril de 2004), es "una pantalla que proporciona una
+experiencia de lectura excelente, muy parecida a la del papel real, y
+que no cansa la vista" (Mike Cook, creador de epubBooks.com). Otra
+ventaja de esta tableta sobre sus competidores es la duración de la
+batería, que permite leer más de 7.000 páginas, o sea dos semanas sin
+necesidad de recarga. Esta tableta es la primera en utilizar Adobe
+Digital Editions, un software que adapta las páginas de un libro a
+varios tipos de pantallas. El Sony Reader se va haciendo disponible en
+Canadá, el Reino Unido, Alemania y Francia, con nuevos modelos más
+baratos.
+
+Diciembre de 2006 > Live Search Books, la biblioteca digital de
+Microsoft
+
+En diciembre de 2006, Microsoft pone en línea en los Estados Unidos la
+versión beta de Live Search Books, su propia biblioteca digital, que
+permite una búsqueda por palabras claves en libros digitalizados del
+dominio público. Microsoft digitaliza estos libros tras la firma de
+acuerdos con grandes bibliotecas. Las primeras son la British Library y
+las bibliotecas de las Universidades de California y de Toronto,
+seguidas en enero de 2007 por las de la New York Public Library y de la
+Universidad Cornell. Microsoft tiene intención de añadir libros
+sometidos a derechos de autor, pero únicamente con la aprobación previa
+de los editores. En mayo de 2007, Microsoft anuncia la firma de
+acuerdos con varios grandes editores estadounidenses, entre los cuales
+Cambridge University Press y McGraw Hill. Microsoft acaba poniendo fin
+a este proyecto en mayo de 2008 para dedicarse a otras actividades. Los
+750.000 libros que ya se han digitalizados pertenecen a las colecciones
+de la Open Content Alliance (OCA) y están disponibles en el Internet
+Archive.
+
+Diciembre de 2006 > Cita de Marc Autret, periodista y diseñador gráfico
+
+Marc Autret, periodista y diseñador gráfico, escribe en diciembre de
+2006: "Me imagino el libro digital de mañana como una suerte de wiki
+cristalizado, empaquetado en un formato. ¿Cuál será entonce su valor
+propio? ¡La de un libro: la unidad y la calidad del trabajo editorial!"
+(Entrevista del NEF)
+
+Diciembre de 2006 > Cita de Pierre Schweitzer, inventor del proyecto
+@folio, una tableta de lectura
+
+Pierre Schweitzer es el inventor del proyecto @folio, una tableta de
+lectura nómada, que concibe en octubre de 1996. Escribe en diciembre de
+2006: "La suerte que compartimos todos es la de estar viviendo desde
+dentro, aquí y ahora, esta transformación fantástica. Cuando yo nací en
+1963, en la memoria de los ordenadores cabían apenas algunas páginas de
+caracteres. Hoy día, en mi lector portátil caben miles de millones de
+páginas, una verdadera biblioteca de barrio. Mañana, por el efecto
+combinado de la ley de Moore y de la omnipresencia de las redes, el
+acceso instantáneo a las obras y a los saberes será cosa corriente. El
+soporte de almacenamiento en sí ya ni siquiera presentará mucho
+interés. Sólo importarán las comodidades funcionales de uso y la
+poética de esos objetos." (Entrevista del NEF)
+
+Marzo de 2007 > Citizendium, una encyclopedia colaborativa experimental
+en línea
+
+Acrónimo de "The Citizens' Compendium" (El compendio de los
+ciudadanos), Citizendium es una enciclopedia colaborativa en línea
+lanzada en marzo de 2007 (versión beta), después de estar concebida en
+noviembre de 2006 por Larry Sanger, cofundador de Wikipedia, pero que
+luego dimitió del equipo de Wikipedia debido a un problema con la
+calidad del contenido. Citizendium se fundamenta en un modelo similar
+al de Wikipedia (colaborativo y gratis) pero evitando sus fallos
+(vandalismo, falta de rigor y uso de un pseudónimo). Los autores firman
+los artículos con su nombre verdadero y los artículos son editados por
+expertos (llamados "editors" en inglés) titulares de una licenciatura
+universitaria y con 25 años de edad como mínimo. Además, hay
+"constables", es decir agentes encargados de velar por la buena marcha
+del proyecto y de comprobar que se respetan las reglas. El día del
+lanzamiento (25 de marzo de 2007), Citizendium incluye 1.100 artículos,
+820 autores y 180 expertos. Están disponibles 9.800 artículos en enero
+de 2009, 11.800 artículos en julio de 2009 y 15.000 artículos en
+septiembre de 2010.
+
+Marzo de 2007 > El sueño detrás de Citizendium, por Larry Sanger, su
+fundador
+
+En "Why Make Room for Experts in Web 2.0?" (¿Porqué dejar espacio para
+expertos en la web 2.0?), una ponencia fechada de octubre de 2006 y
+actualizada en marzo de 2007 en el sitio web de Citizendium, Larry
+Sanger percibe en Citizendium la emergencia de un nuevo modelo de
+colaboración masiva entre decenas de miles de intelectuales y
+científicos, no sólo para elaborar enciclopedias sino también manuales
+didácticos, obras de referencia, documentos multimedia y aplicaciones
+en 3D. Esta colaboración está basada en la idea de compartir
+conocimientos, en la línea de la web 2.0, un concepto lanzado en 2004
+para caracterizar las nociones de comunidad y de reparto, y que se
+manifestó primero por un brote de wikis, de blogs y de sitios web
+sociales. Según Larry Sanger, también importa crear estructuras que
+permitan el desarrollo de colaboraciones científicas, y Citizendium
+podría servir de prototipo en ese aspecto.
+
+Mayo de 2007 > La Encyclopedia of Life, para inventariar todas las
+especies animales y vegetales
+
+Lanzada en mayo de 2007, la Encyclopedia of Life (Enciclopedía de la
+Vida) es una vasta enciclopedia colaborativa en línea que reunirá los
+conocimientos relativos a todas las especies animales y vegetales
+conocidas (1,8 millón), incluso las especies en vía de extinción, y a
+medida que se van identificando especies nuevas se añaden a la lista
+(por lo visto existirían entre 8 y 10 millones de especies). Se tratará
+de una enciclopedia multimedia que permitiere reunir textos, fotos,
+cartas, bandas sonoras y vídeos, con una página dedicada a cada
+especie, y también poner a disposición un portal único para millones de
+documentos esparcidos en línea o en documentos impresos. La creación de
+páginas web empieza en el transcurso del año 2007, con una primera
+versión en línea a mediados de 2008. La Encyclopedia of Life debería
+estar completa - o sea actualizada con todas las especies animales y
+vegetales conocidas -- dentro de diez años. La versión inicial en
+inglés estará traducida a varios idiomas por futuros organismos
+asociados.
+
+Junio de 2007 > InterActive Terminology for Europe (IATE), una base
+terminológica en 24 lenguas
+
+La nueva base terminológica IATE (InterActive Terminology for Europe -
+Terminología InterActiva para Europa) del Servicio de Traducción de la
+Comisión Europea se lanza en marzo de 2007 en la web con 1,4 millones
+de términos en 24 idiomas, después de empezar como un servicio interno
+para las instituciones europeas desde el verano de 2004. Esta nueva
+base se puede consultar en 24 idiomas - en lugar de los 12 idiomas de
+la base precedente Eurodicautom - con la ampliación de la Unión Europea
+hacia Euroa del Este y el número de países miembros que pasa de 15 a 25
+miembros en mayo de 2004 y alcanza 27 miembros en enero de 2007. En
+2009, IATE incluye 8,4 millones de términos, incluido 540.000
+abreviaturas y 130.000 expresiones.
+
+Junio de 2007 > El iPhone, primer smartphone de Apple
+
+Presentado en enero de 2007 por Apple y disponible a la venta en junio
+de 2007 en los Estados Unidos, el iPhone es un teléfono multifunción (o
+smartphone) que integra el iPod (lanzado en octubre de 2001), una
+cámara y un navegador web, con las siguientes características: pantalla
+táctil de gran tamaño (3,5 pulgadas), sincronización automática con la
+plataforma iTunes para descargar música y videos, cámara de 2
+megapíxeles, navegador Safari, sistema operativo Mac OS X, acceso a las
+redes de telefonía GSM (Global System for Mobile Telecommunications -
+Sistema Global para Telecomunicaciones Móviles) y EDGE (Enhanced Data
+for GSM Evolution -- Datos Mejorados para la Evolución GSM), conexión
+al internet vía la WiFi (Wireless Fidelity) y conexión Bluetooth. El
+iPhone es disponible con un precio de 499 dólares US para el modelo de
+4 G (gigabytes) y 599 dólares para el modelo de 8 G. Es disponible en
+Europa a finales de 2007 y en Asia en 2008. Otros modelos siguen. El
+último modelo es el iPhone 4, disponible en junio de 2010.
+
+Agosto de 2007 > Cita de Denis Zwirn, presidente de la librería digital
+Numilog
+
+Denis Zwirn, presidente de Numilog, funda esta librería digital en
+marzo de 2000. Escribe en agosto de 2007: "El libro digital ya no es un
+tema de simposio, de definición conceptual o de adivinación por algunos
+'expertos': ahora se ha convertido en un producto comercial y en un
+instrumento al servicio de la lectura. Ya no hace falta esperar no sé
+qué nuevo modo de lectura hipermoderno e hipertextual enriquecido de
+funcionalidades multimedia que orquesten sabiamente su especificidad
+con respecto al papel. Ahora ha empezado otra etapa: lo que conviene
+hacer es proponer textos que se puedan leer con facilidad en los
+múltiples soportes de lectura electrónica que utiliza la gente, porque
+quizás la tinta electrónica no tarde tanto en invadirlos todos. Y
+también convendría proponer esos textos de modo industrial. El ebook no
+es, ni llegará a ser nunca, un producto de nicho (como los
+diccionarios, las guías de viaje, los libros para deficientes
+visuales...), sino que se está convirtiendo en un producto de masas,
+capaz de tomar formas tan múltiples como el libro tradicional."
+(Entrevista del NEF)
+
+Noviembre de 2007 > El Kindle, la tableta de lectura de Amazon
+
+Amazon.com lanza en noviembre de 2007 su propia tableta de lectura, el
+Kindle, que tiene forma de libro (19 x 13 x 1,8 cm, 289 gramos), con
+una pantalla en blanco y negro (6 pulgadas, 800 x 600 píxeles), un
+teclado, una memoria de 256 M (extensible con tarjeta SD), una conexión
+WiFi y un puerto USB. Vendido por 400 dólares US (273 euros), puede
+contener hasta 200 libros escogidos entre los 80.000 disponibles en el
+catálogo de Amazon  después de la recompra de la sociedad Mobipocket en
+abril de 2005. Se venden 538.000 Kindle en 2008. En febrero de 2009,
+Amazon lanza una nueva versión del Kindle, el Kindle 2, con un catálogo
+de 230.000 libros. En mayo de 2009, Amazon lanza el Kindle DX, con una
+pantalla más larga. El catálogo de Amazon incluye 450.000 libros
+digitales en marzo de 2010, incluido libros y revistas audio después de
+la recompra de la sociedad Audible.com en enero de 2009.
+
+Octubre de 2008 > Google Books versus las asociaciones de autores y
+editores
+
+Tras tres años de conflicto, Google trata de poner fin a las acciones
+legales emprendidas en contra suya por las asociaciones de autores y
+editores, anunciando en octubre de 2008 un acuerdo que podría tomar
+efecto en los años siguientes. Se trata de un acuerdo basado en una
+repartición de los beneficios generados por su servicio, en un amplio
+acceso a las obras agotadas, y en el pago de 125 millones de dólares US
+al Authors Guild (Asociación de Autores Estadounidenses) y a la
+Association of American Publishers (Asociación de  Editores
+Estadounidenses) para clausurar el conflicto. Después de este acuerdo,
+Google debería proponer fragmentos más largos de los libros, hasta un
+20% de una misma obra, con un enlace comercial que permita comprar una
+copia de la obra, en versión digital o impresa. Los derechohabientes
+quedarán libres de participar o no en el proyecto Google Books, y de
+retirar sus libros de las colecciones. Por otro lado, las bibliotecas
+universitarias y públicas estadounidenses podrán acceder a un portal
+gratuito administrado por Google, y que facilitará acceso al texto de
+millones de libros agotados.
+
+Noviembre de 2008 > Europeana, la biblioteca digital europea
+
+En noviembre de 2008, Europeana, la biblioteca digital europea, es
+lanzada con dos millones de documentos. La Biblioteca Europea es en
+primer lugar un portal común a las 43 bibliotecas nacionales de Europa,
+lanzado en enero de 2004 por la CENL (Conference of European National
+Librarians - Conferencia de Bibliotecarios Nacionales Europeos). Este
+portal es albergado por la Biblioteca nacional de los Países Bajos. En
+marzo de 2006, la Comisión europea lanza un proyecto de biblioteca
+digital europea, después de una vasta consulta pública en los meses
+precedentes. Europeana propone 6 millones documentos digitales en marzo
+de 2010.
+
+Noviembre de 2009 > El Nook, la tableta de lectura de Barnes & Noble
+
+En noviembre de 2009, la gran cadena de librerías Barnes & Noble lanza
+el Nook, su propia tableta de lectura, por 259 dólares, cuyo
+lanzamiento ya se había anunciado un mes antes. La tableta funciona con
+la plataforma Android y tiene una pantalla E Ink de 6 pulgadas, con
+conexiones WiFi y 3G. En junio de 2010, el precio del primer modelo
+baja a 199 dólares, y se lanza un nuevo modelo por un precio de 159
+dólares, sólo con conexión WiFi. En octubre de 2010 se anuncia el Nook
+Color, con el fin de apreciar las imágenes en color de revistas y
+libros ilustrados. En noviembre de 2010, el catálogo de Barnes & Noble
+ofrece 2 millones de libros digitales para el Nook.
+
+Abril de 2010 > El iPad, la tableta digital multifunción de Apple
+
+En abril de 2010, Apple lanza el iPad, su tableta digital multifunción,
+en los Estados Unidos con un precio de 499 dólares US y una librería
+digital (llamada iBookstore) de 60,000 libros que crece rápidamente. Un
+lanzamiento mundial sigue en junio de 2010. Después del iPod (lanzado
+en octubre de 2001) y del iPhone (lanzado en junio de 2007), dos
+objetos de culto para toda una generación, Apple también se convierte
+en un actor importante en el ámbito del libro digital.
+
+Abril de 2010 > Cita de Catherine Domain, fundadora de la librería
+Ulysse y editora de libros de viaje
+
+Catherine Domain, fundadora en 1971 de la librería Ulysse, la librería
+de viaje más antigua del mundo, se convierte en editora en abril de
+2010 para publicar libros de viajes. Escribe en la misma fecha: "¡El
+internet va ocupando cada vez más espacio en mi vida! Desde el primero
+de abril, me permite tener una editorial, tras unos cursos de formación
+laboriosos de Photoshop, InDesign, y otros softwares. Es también una
+gran alegría ver que la voluntad política de mantener a la gente
+delante de su ordenador a fin de que no haga la revolución puede ser
+derrotada por aperitivos gigantescos y espontáneos [en Europa, a través
+de Facebook] con miles de personas que quieren verse y escucharse de
+verdad. No cabe duda de que los inventos - y así pasa con muchas cosas
+- toman giros inesperados. Cuando empecé a usar el internet [en 1999,
+para crear el sitio web de la librería], yo no esperaba en absoluto
+convertirme en editora."
+
+Noviembre de 2010 > Fin de la Booknología
+
+Muchas gracias a Marc Autret por la palabra "Booknología" usada en un
+proyecto común previo, a Anna Álvarez por su ayuda con varias partes en
+español, y a todas las personas que están citadas en esta Booknología.
+
+
+Copyright © 2010 Marie Lebert. Todos derechos reservados.
+
+
+
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK BOOKNOLOGÍA: EL LIBRO DIGITAL (1971-2010) ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+This particular work is one of the few individual works protected
+by copyright law in the United States and most of the remainder of the
+world, included in the Project Gutenberg collection with the
+permission of the copyright holder. Information on the copyright owner
+for this particular work and the terms of use imposed by the copyright
+holder on this work are set forth at the beginning of this work.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
